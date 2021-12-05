@@ -1,1 +1,7 @@
+---
+layout: post
+title: Punta Lu Caparoni
+image: /assets/uploads/.jpg
+---
+La cresta rocciosa che culmina con Punta Lu Caparoni, si trova a Nord-Ovest dell' isola, nella fascia montuosa che dalla baia di Porto Ferro arriva fino ad oltre l’Argentiera. Queste montagne selvagge dalla fitta vegetazione mediterranea, sono formate da rocce sabbiose, ricche in quarzo, depositate da un vecchio fiume che scorreva qui 300 Ma fa. La cima alta 444 m (seconda solo a Monte Forte nella Nurra), domina il vertiginoso versante ovest che si affaccia sul mare. Da lassù i tramonti sono mozza fiato ed é un punto di osservazione strategico per ammirare il paesaggio.
 
