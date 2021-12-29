@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about
-title: About SEA N' CLIFFS
+title: ABOUT SEA N’ CLIFFS
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
@@ -663,7 +663,7 @@ title: About SEA N' CLIFFS
 
 <!--StartFragment-->
 
-**ABOUT SEA N’ CLIFFS**
+
 
 Acqua azzurro turchese con sopra vertiginose scogliere a picco sul mare, ricoperte dal verde della macchia Mediterranea, è un abbinamento devastante, di emozionante bellezza. Questa è l’immagine che mi ha ispirato sin dalla prima volta che ho messo piede su quest’isola.
 
