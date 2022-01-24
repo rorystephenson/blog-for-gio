@@ -1,0 +1,17 @@
+# Site settings
+title: Sea \'n Cliffs
+email: rorystephenson@gmail.com
+description: >
+  This will be the description...
+domain: seancliffs.github.io
+url: https://seancliffs.github.io
+baseurl: /seancliffs
+
+# Build settings
+markdown: kramdown
+
+collections:
+  escursioni:
+    output: true
+  gallery:
+    output: true
