@@ -135,20 +135,22 @@ aside {
         }
     }
     @media (min-width: 768px) {
-        background-color: transparent;
+        background-color: rgba(black, 0.1);
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
-            color: rgba(white, .7);
-            &:hover,
+            color: rgba(white, .9);
+            &:hover {
+                color: #d0ffcc;
+            }
             &:focus {
                 color: white;
             }
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba(white, .7);
+            color: white;
             &:hover {
-                color: white;
+                color: #d0ffcc;
             }
         }
         &.affix {
