@@ -1,6 +1,6 @@
 ---
 layout: escursione
-title: "1)\tIl paesaggio della Nurra – Escursione sul Mt. Forte "
+title: "Il paesaggio della Nurra – Escursione sul Mt. Forte "
 thumbnail: /img/uploads/dsc_0616dsc_0616.jpg
 image: /img/uploads/dsc_0518dsc_0518.jpg
 ---
