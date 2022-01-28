@@ -2,7 +2,7 @@
 layout: escursione
 title: "I Versanti Vulcanici del West "
 thumbnail: /img/uploads/BRC_3230BRC_3230.jpg
-image: /img/uploads/dsc_0210dsc_0210.jpg
+image: /img/uploads/BRC_3230BRC_3230.jpg
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
@@ -672,15 +672,12 @@ INFO TECNICHE PERCORSO
 
 <!--\[if !supportLists]-->·        <!--\[endif]-->8 H
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->450 m
+<!--\[if !supportLists]-->·        <!--\[endif]-->750 m
 
  
-
- 
-
 VARIANTI E OPZIONI
 
-È possibile scegliere se salire passando per Sa rocca Pinta o dalla cascata Istrampu de su Segnore. C’è anche la possibilità di vistarele entrambe nella stessa giornata ma ovviamente il percorsa si allunga decisamente.
+È possibile scegliere se passare per Sa rocca Pinta o dalla cascata Istrampu de su Segnore o da entrembe. Nel caso in cui non si voglia fare la discesa per fermarsi a mangiare al nuraghe, c'è la possibilità di organizzare una navetta. 
 
 <!--\[if !supportLists]-->·        <!--\[endif]-->Visita con immersione nella storia del nuraghe Appiu
 
