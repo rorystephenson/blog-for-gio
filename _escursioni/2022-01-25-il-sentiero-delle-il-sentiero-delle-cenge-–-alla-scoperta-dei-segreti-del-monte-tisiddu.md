@@ -1,7 +1,6 @@
 ---
 layout: escursione
-title: Il sentiero delle Il sentiero delle Cenge – Alla scoperta dei segreti del
-  Monte Tisiddu
+title: "1)\tIl paesaggio della Nurra – Escursione sul Mt. Forte "
 thumbnail: /img/uploads/dsc_0616dsc_0616.jpg
 image: /img/uploads/dsc_0518dsc_0518.jpg
 ---
@@ -665,20 +664,15 @@ image: /img/uploads/dsc_0518dsc_0518.jpg
 
 <!--StartFragment-->
 
-La cengia, una rottura di pendenza, un luogo della parete rocciosa in cui si ha un cambiamento, la roccia stessa cambia. Per i pastori del luogo spesso sono passaggi utili; può essere l’unico modo per recuperare una pecora smarrita o semplicemente un modo per rientrare a casa più velocemente dopo una lunga giornata di lavoro. Questi passaggi creati dall’erosione naturale sono molto esposti ma se affrontati con prudenza sono percorribili e parecchio adrenalinici. L’itinerario di questa avventura circumnaviga il *Mt. Tisiddu*, rimanendo per la maggior parte del tempo sulle strapiombanti pareti di questo meraviglioso *Tacco Calcareo*, che si trova esattamente sopra il paese di *Ulassai*.
+Se vuoi affacciarti su uno dei paesaggi più emozionanti della Sardegna, questa è l’avventura che fa per te.\
+La cima del *MONTE FORTE* è il punto panoramico per eccellenza della *Nurra*. Oltre ad essere il monte più alto di questa terra, si trova in una posizione strategica, che permette di vedere a 360° tutta la costa Nord-Ovest Sarda.  Dall’isola dell’*Asinara* a Nord, lo sguardo scende lungo costa passando per le montagne dell’*Argentiera*, si ipnotizza sulla penisola di *Capo Caccia*, per poi distogliersi catturato dai versanti vulcanici che dominano *Bosa* e che culminano verso Ovest con Capo *Marrargiu*.
 
 INFO TECNICHE PERCORSO
 
-<!--\[if !supportLists]-->·        <!--\[endif]--> Km
+<!--\[if !supportLists]-->·        <!--\[endif]-->7 Km
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->6 H
+<!--\[if !supportLists]-->·        <!--\[endif]-->4 H
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->200 m
-
-VARIANTI E OPZIONI
-
-<!--\[if !supportLists]-->·        <!--\[endif]-->È possibile prevedere una digressione fotografica su una delle cime di questo Mt. la cima Broncu Matzeu.
-
- *La quota di partecipazione individuale è variabile in base al numero dei partecipanti, parte da 25 euro**.***
+<!--\[if !supportLists]-->·        <!--\[endif]-->300 m
 
 <!--EndFragment-->
