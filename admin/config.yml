@@ -26,12 +26,9 @@ collections:
           - { label: "Header subtitle", name: "header_subtitle", widget: "string" }
           - { label: "Header image", name: "header_image", widget: "image" }
           - { label: "Esplora book now text", name: "esplora_book_now_text", widget: "string" }
-          - { label: "Esplora titolo 1", name: "esplora_title_1", widget: "string" }
-          - { label: "Esplora descrizione 1", name: "esplora_description_1", widget: "string" }
-          - { label: "Esplora image 1", name: "esplora_image_1", widget: "string" }
-          - { label: "Esplora titolo 2", name: "esplora_title_2", widget: "string" }
-          - { label: "Esplora descrizione 2", name: "esplora_description_2", widget: "string" }
-          - { label: "Esplora image 2", name: "esplora_image_2", widget: "string" }
+          - { label: "Esplora titolo", name: "esplora_title", widget: "string" }
+          - { label: "Esplora descrizione", name: "esplora_description", widget: "string" }
+          - { label: "Esplora image", name: "esplora_image", widget: "string" }
           - { label: "About content", name: "about_content", widget: "markdown" }
           - { label: "Contatti content", name: "contatti_content", widget: "markdown" }
   - name: 'gallery'
@@ -51,7 +48,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "escursione" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "plain-page" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Thumbnail", name: "thumbnail", widget: "image" }
       - { label: "Image", name: "image", widget: "image" }

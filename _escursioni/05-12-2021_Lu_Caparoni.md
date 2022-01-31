@@ -1,5 +1,5 @@
 ---
-layout: escursione
+layout: plain-page
 title: "Torre della Peña, Capo Caccia "
 thumbnail: /img/uploads/teo1.jpg
 image: /img/uploads/img20210905185441.jpg

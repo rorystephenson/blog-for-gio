@@ -5,10 +5,10 @@
 
 <body id="page-top">
   {% include nav.html %}
-  <header style="min-height: 66%; background-image: url({{ "/img/header.jpg" | absolute_url }})">
+  <header style="min-height: 66%; background-image: url({{ page.image | absolute_url }})">
       <div class="header-content">
           <div class="header-content-inner">
-            <h1>{{ page.title }}</h1>
+            <h1 style="text-shadow: rgb(84, 84, 84) 0px 0px 3px; font-size: 65px;">{{ page.title }}</h1>
           </div>
       </div>
   </header>
