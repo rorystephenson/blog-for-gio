@@ -1,13 +1,13 @@
 {% assign home_link = "#page-top" %}
-{% assign esplora_link = "#esplora" %}
 {% assign escursioni_link = "#escursioni" %}
+{% assign esplora_link = "#esplora" %}
 {% assign foto_video_link = "#foto-video" %}
 {% assign blog_link = "#blog" %}
 {% assign contatti_link = "#contatti" %}
 {% if page.name != "index.html" %}
     {% assign home_link = "/" | relative_url %}
-    {% assign esplora_link = esplora_link | relative_url %}
     {% assign escursioni_link = escursioni_link | relative_url %}
+    {% assign esplora_link = esplora_link | relative_url %}
     {% assign foto_video_link = foto_video_link | relative_url %}
     {% assign blog_link = blog_link | relative_url %}
     {% assign contatti_link = contatti_link | relative_url %}
@@ -29,10 +29,10 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a class="page-scroll" href="{{ esplora_link }}">{{ site.data.sections.esplora }}</a>
+                    <a class="page-scroll" href="{{ escursioni_link }}">{{ site.data.sections.escursioni }}</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{{ escursioni_link }}">{{ site.data.sections.escursioni }}</a>
+                    <a class="page-scroll" href="{{ esplora_link }}">{{ site.data.sections.esplora }}</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="{{ foto_video_link }}">{{ site.data.sections.foto_video }}</a>
@@ -42,6 +42,9 @@
                 </li>
                 <li>
                     <a class="page-scroll" href="{{ contatti_link }}">{{ site.data.sections.contatti }}</a>
+                </li>
+                <li>
+                    <a class="separate-page-link" href="{{site.baseurl}}{% link pages/chi-siamo.html %}">Chi Siamo</a>
                 </li>
             </ul>
         </div>
