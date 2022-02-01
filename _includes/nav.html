@@ -2,14 +2,14 @@
 {% assign esplora_link = "#esplora" %}
 {% assign escursioni_link = "#escursioni" %}
 {% assign foto_video_link = "#foto-video" %}
-{% assign about_link = "#about" %}
+{% assign blog_link = "#blog" %}
 {% assign contatti_link = "#contatti" %}
 {% if page.name != "index.html" %}
     {% assign home_link = "/" | relative_url %}
     {% assign esplora_link = esplora_link | relative_url %}
     {% assign escursioni_link = escursioni_link | relative_url %}
     {% assign foto_video_link = foto_video_link | relative_url %}
-    {% assign about_link = about_link | relative_url %}
+    {% assign blog_link = blog_link | relative_url %}
     {% assign contatti_link = contatti_link | relative_url %}
 {% endif %}
 <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
@@ -36,6 +36,9 @@
                 </li>
                 <li>
                     <a class="page-scroll" href="{{ foto_video_link }}">{{ site.data.sections.foto_video }}</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="{{ blog_link }}">{{ site.data.sections.blog }}</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="{{ contatti_link }}">{{ site.data.sections.contatti }}</a>
