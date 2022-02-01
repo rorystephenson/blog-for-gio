@@ -16,6 +16,7 @@ collections:
           - { label: "Escursioni", name: "escursioni", widget: "string" }
           - { label: "Foto & Video", name: "foto_video", widget: "string" }
           - { label: "Contatti", name: "contatti", widget: "string" }
+          - { label: "Mappa Escursioni", name: "mappa_escursioni", widget: "string" }
           - { label: "Chi Siamo", name: "chi_siamo", widget: "string" }
       - label: 'Home page'
         name: 'home'
@@ -33,6 +34,15 @@ collections:
           - { label: "About content", name: "about_content", widget: "markdown" }
           - { label: "Contatti content", name: "contatti_content", widget: "markdown" }
 
+      - label: 'Mappa Escusioni'
+        name: 'mappa_escursioni'
+        file: 'pages/mappa-escursioni.html'
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "plain-page" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "/mappa-escursioni" }
+          - { label: "Header title", name: "title", widget: "string" }
+          - { label: "Header image", name: "image", widget: "image" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: 'Chi Siamo'
         name: 'chi_siamo'
         file: 'pages/chi-siamo.html'
