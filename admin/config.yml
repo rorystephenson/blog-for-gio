@@ -15,8 +15,8 @@ collections:
           - { label: "Esplora", name: "esplora", widget: "string" }
           - { label: "Escursioni", name: "escursioni", widget: "string" }
           - { label: "Foto & Video", name: "foto_video", widget: "string" }
-          - { label: "About", name: "about", widget: "string" }
           - { label: "Contatti", name: "contatti", widget: "string" }
+          - { label: "Chi Siamo", name: "chi_siamo", widget: "string" }
       - label: 'Home page'
         name: 'home'
         file: 'index.html'
@@ -32,6 +32,16 @@ collections:
           - { label: "Esplora image", name: "esplora_image", widget: "string" }
           - { label: "About content", name: "about_content", widget: "markdown" }
           - { label: "Contatti content", name: "contatti_content", widget: "markdown" }
+
+      - label: 'Chi Siamo'
+        name: 'chi_siamo'
+        file: 'pages/chi-siamo.html'
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "plain-page" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "/chi-siamo" }
+          - { label: "Header title", name: "title", widget: "string" }
+          - { label: "Header image", name: "image", widget: "image" }
+          - { label: "Body", name: "body", widget: "markdown" }
   - name: 'gallery'
     label: 'Gallery'
     folder: '_gallery/'
