@@ -133,6 +133,13 @@ aside {
             }
         }
     }
+    .separate-page-link:before {
+        content: '';
+        position: absolute;
+        border-top: 1px solid #d1d1d1;
+        top: 0; left: 15px; right: 15px;
+    }
+
     @media (min-width: 768px) {
         background-color: rgba(black, 0.1);
         border-color: rgba(white, .3);
@@ -152,6 +159,11 @@ aside {
                 color: #d0ffcc;
             }
         }
+        .separate-page-link:before {
+            border-top: 0;
+            border-left: 1px solid white;
+            left: 2px; top: 10px; bottom: 10px;
+        }
         &.affix {
             background-color: white;
             border-color: rgba($theme-dark, .5);
@@ -170,21 +182,10 @@ aside {
                     color: $theme-primary;
                 }
             }
+            .separate-page-link:before {
+                border-left: 1px solid #909090;
+            }
         }
-    }
-}
-
-.separate-page-link:before {
-    content: '';
-    position: absolute;
-
-    border-top: 1px solid #d1d1d1;
-    top: 0; left: 15px; right: 15px;
-
-    @media (min-width: 768px) {
-        border-top: 0;
-        border-left: 1px solid white;
-        left: 2px; top: 10px; bottom: 10px;
     }
 }
 
