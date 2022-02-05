@@ -2,7 +2,7 @@
 layout: plain-page
 title: "Il paesaggio della Nurra, Escursione sul Mt. Forte "
 thumbnail: /img/uploads/pf1.jpg
-image: /img/uploads/versanten.jpg
+image: /img/uploads/cima.jpg
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
