@@ -1,8 +1,8 @@
 ---
 layout: plain-page
 title: "Il paesaggio della Nurra – Escursione sul Mt. Forte "
-thumbnail: /img/uploads/dsc_0616dsc_0616.jpg
-image: /img/uploads/dsc_0518dsc_0518.jpg
+thumbnail: /img/uploads/pf1.jpg
+image: /img/uploads/versanten.jpg
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
@@ -674,5 +674,11 @@ INFO TECNICHE PERCORSO
 <!--\[if !supportLists]-->·        <!--\[endif]-->4 H
 
 <!--\[if !supportLists]-->·        <!--\[endif]-->300 m
+
+VARIANTI E OPZIONI
+
+<!--\[if !supportLists]-->·       <!--\[endif]-->possibiltà di avventurarsi oltre, *all’interno della natura del parco Lu Cantaru.*
+
+ *La quota di partecipazione individuale è variabile in base al numero dei partecipanti, parte da 20 euro.*
 
 <!--EndFragment-->
