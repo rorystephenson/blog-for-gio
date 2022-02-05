@@ -11,16 +11,16 @@ Camminare sulle irregolari forme carsiche che caratterizzano questo territorio p
 
 INFO TECNICHE PERCORSO
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->8Km
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->8Km
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->4H
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->4H
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->300 m
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->300 m
 
 VARIANTI E OPZIONI
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->*Possibilità di fermarsi in cima per aperitivo e visione del tramonto, per poi rientrare di notte con le torce frontali.*
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->\*Possibilità di fermarsi in cima per aperitivo e visione del tramonto, per poi rientrare di notte con le torce frontali.\*
 
-***La quota di partecipazione individuale è variabile in base al numero dei partecipanti, parte da 25 euro.***
+***La quota di partecipazione individuale è variabile in base al numero dei partecipanti, parte da 20 euro.***
 
 <!--EndFragment-->
