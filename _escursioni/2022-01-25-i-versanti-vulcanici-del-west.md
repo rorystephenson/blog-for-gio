@@ -4,13 +4,12 @@ title: I Versanti Vulcanici del West
 thumbnail: /img/uploads/BRC_3230BRC_3230.jpg
 image: /img/uploads/dsc_0210dsc_0210.jpg
 ---
-
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><!\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +49,9 @@ image: /img/uploads/dsc_0210dsc_0210.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +630,9 @@ image: /img/uploads/dsc_0210dsc_0210.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,7 +659,7 @@ image: /img/uploads/dsc_0210dsc_0210.jpg
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -668,18 +667,18 @@ Andando verso Sud da Alghero, si attraversano i selvaggi versanti che guardano a
 
 INFO TECNICHE PERCORSO
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->12 Km
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->12 Km
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->8 H
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->8 H
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->450 m
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->450 m
 
 VARIANTI E OPZIONI
 
 È possibile scegliere se salire passando per Sa rocca Pinta o dalla cascata Istrampu de su Segnore. C’è anche la possibilità di vistarle entrambe nella stessa giornata ma ovviamente il percorsa si allunga decisamente.
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->Visita al nuraghe Apiu
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->Visita al nuraghe Apiu
 
-*La quota di partecipazione individuale è variabile in base al numero dei partecipanti, parte da 20 euro*
+*La quota di partecipazione individuale è variabile in base al numero dei partecipanti, parte da 30 euro*
 
 <!--EndFragment-->
