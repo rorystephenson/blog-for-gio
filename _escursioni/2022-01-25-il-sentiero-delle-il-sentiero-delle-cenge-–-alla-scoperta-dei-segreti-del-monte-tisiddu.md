@@ -1,6 +1,6 @@
 ---
 layout: plain-page
-title: "Il paesaggio della Nurra – Escursione sul Mt. Forte "
+title: "Il paesaggio della Nurra, Escursione sul Mt. Forte "
 thumbnail: /img/uploads/pf1.jpg
 image: /img/uploads/versanten.jpg
 ---
