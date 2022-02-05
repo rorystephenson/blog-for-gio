@@ -1,8 +1,8 @@
 ---
 layout: plain-page
 title: "Torre della Peña, Capo Caccia "
-thumbnail: /img/uploads/pf1.jpg
-image: /img/uploads/img20210905185441.jpg
+thumbnail: /img/uploads/img20210905185441.jpg
+image: /img/uploads/pf1.jpg
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
