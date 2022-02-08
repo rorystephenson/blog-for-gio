@@ -1,6 +1,6 @@
 ---
 layout: plain-page
-title: "**Torre della Peña, Capo Caccia**"
+title: Torre della Peña, Capo Caccia
 thumbnail: /img/uploads/img20210905185441.jpg
 image: /img/uploads/sun1.jpg
 ---
