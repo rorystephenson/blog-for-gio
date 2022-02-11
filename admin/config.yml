@@ -24,12 +24,12 @@ collections:
         fields:
           - { label: "Layout", name: "layout", widget: "hidden", default: "front" }
           - { label: "Header title", name: "header_title", widget: "string" }
-          - { label: "Header subtitle", name: "header_subtitle", widget: "string" }
+          - { label: "Header subtitle", name: "header_subtitle", widget: "markdown" }
           - { label: "Header image", name: "header_image", widget: "image" }
           - { label: "Introduction", name: "introduction", widget: "markdown" }
           - { label: "Esplora book now text", name: "esplora_book_now_text", widget: "string" }
           - { label: "Esplora titolo", name: "esplora_title", widget: "string" }
-          - { label: "Esplora descrizione", name: "esplora_description", widget: "string" }
+          - { label: "Esplora descrizione", name: "esplora_description", widget: "markdown" }
           - { label: "Esplora image", name: "esplora_image", widget: "string" }
           - { label: "About content", name: "about_content", widget: "markdown" }
           - { label: "Contatti content", name: "contatti_content", widget: "markdown" }
@@ -62,7 +62,7 @@ collections:
       - { label: "Caption", name: "caption", widget: "string" }
       - { label: "Thumbnail", name: "thumbnail", widget: "image" }
       - { label: "Image link", name: "image", widget: "image" }
-      - { label: "Youtube link", name: "body", widget: "string" }
+      - { label: "Youtube link", name: "youtube_link", widget: "string" }
   - name: 'escursioni'
     label: 'Escursioni'
     folder: '_escursioni/'
