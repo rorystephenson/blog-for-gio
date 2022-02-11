@@ -60,9 +60,9 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Caption", name: "caption", widget: "string" }
-      - { label: "Thumbnail", name: "thumbnail", widget: "image" }
-      - { label: "Image link", name: "image", widget: "image" }
-      - { label: "Youtube link", name: "youtube_link", widget: "string" }
+      - { label: "Thumbnail", name: "thumbnail", widget: "image", required: false }
+      - { label: "Image link", name: "image", widget: "image", required: false }
+      - { label: "Youtube link", name: "youtube_link", widget: "string", required: false }
   - name: 'escursioni'
     label: 'Escursioni'
     folder: '_escursioni/'
