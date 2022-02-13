@@ -7,7 +7,7 @@
 {% assign video_url = "https://youtu.be/" | append: video_id  %}
 
 {% assign thumbnail = include.entry.thumbnail %}
-{% if !thumbnail or thumbnail == '' %}
+{% if !thumbnail or thumbnail == '' or thumbnail == nil %}
     {% assign thumbnail = "https://img.youtube.com/vi/" | append: video_id | append: "/0.jpg" %}
 {% else %}
     {% assign thumbnail = thumbnail | relative_url %}
