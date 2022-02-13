@@ -1,5 +1,6 @@
 ---
 layout: plain-page
+variant: escursione
 title: I Versanti Vulcanici del West
 thumbnail: /img/uploads/BRC_3230BRC_3230.jpg
 image: /img/uploads/dsc_0210dsc_0210.jpg

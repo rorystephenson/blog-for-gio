@@ -2,6 +2,8 @@
 <html lang="en">
 
 {% include head.html %}
+{% assign home_page = site.pages | where: 'layout', 'front' | first %}
+{% assign book_now_text = home_page.esplora_book_now_text %}
 
 <body id="page-top">
   {% include nav.html %}
@@ -9,6 +11,10 @@
       <div class="header-content">
           <div class="header-content-inner">
             <h1 style="text-shadow: rgb(84, 84, 84) 0px 0px 3px; font-size: 65px;">{{ page.title }}</h1>
+            {% if page.variant == "escursione" %}
+            <br />
+            <a href="{{ '#contatti' | relative_url }}" class="btn btn-primary btn-xl page-scroll">{{ book_now_text }}</a>
+            {% endif %}
           </div>
       </div>
   </header>
@@ -19,6 +25,15 @@
               {{ content }}
           </div>
       </div>
+      {% if page.variant == "escursione" %}
+      <div class="row">
+          <div class="col-12">
+              <div class="text-center">
+                <a href="{{ '#contatti' | relative_url }}" class="btn btn-primary btn-xl page-scroll" style="margin-bottom: 30px">{{ book_now_text }}</a>
+              </div>
+          </div>
+      </div>
+      {% endif %}
   </div>
   {% include scripts.html %}
 </body>

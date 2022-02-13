@@ -36,16 +36,17 @@ collections:
 
       - label: 'Mappa Escusioni'
         name: 'mappa_escursioni'
-        file: 'pages/mappa-escursioni.html'
+        file: 'pages/mappa-escursioni.md'
         fields:
           - { label: "Layout", name: "layout", widget: "hidden", default: "plain-page" }
+          - { label: "Variant", name: "variant", widget: "hidden", default: "escursione" }
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "/mappa-escursioni" }
           - { label: "Header title", name: "title", widget: "string" }
           - { label: "Header image", name: "image", widget: "image" }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: 'Chi Siamo'
         name: 'chi_siamo'
-        file: 'pages/chi-siamo.html'
+        file: 'pages/chi-siamo.md'
         fields:
           - { label: "Layout", name: "layout", widget: "hidden", default: "plain-page" }
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "/chi-siamo" }

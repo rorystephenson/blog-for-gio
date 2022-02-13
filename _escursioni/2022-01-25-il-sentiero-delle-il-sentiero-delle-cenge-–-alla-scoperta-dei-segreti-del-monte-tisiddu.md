@@ -1,5 +1,6 @@
 ---
 layout: plain-page
+variant: escursione
 title: "Il paesaggio della Nurra, Escursione sul Mt. Forte "
 thumbnail: /img/uploads/pf1.jpg
 image: /img/uploads/cima.jpg
