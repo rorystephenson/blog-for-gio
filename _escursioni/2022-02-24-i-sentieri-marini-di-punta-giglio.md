@@ -1,6 +1,6 @@
 ---
 layout: plain-page
-title: "**I sentieri marini di Punta Giglio**"
+title: I sentieri marini di Punta Giglio
 thumbnail: /img/uploads/img20210905185441.jpg
 image: /img/uploads/sun1.jpg
 ---
