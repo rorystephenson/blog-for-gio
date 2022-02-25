@@ -4,10 +4,10 @@ permalink: /chi-siamo
 title: Chi siamo
 image: /img/uploads/dsc_0658_47.jpg
 ---
-**Acqua azzurra sulla quale affiorano vertiginose scogliere rocciose, ricoperte dal verde rigoglioso della macchia Mediterranea;** un’immagine ricca di contrasti di colori e forme, di emozionante bellezza.\
+**Acqua azzurra sulla quale affiorano vertiginose scogliere rocciose, ricoperte dal verde rigoglioso della macchia Mediterranea;** un’immagine ricca dai forti contrasti di colori e forme, di emozionante bellezza.\
 Questa è l’immagine che ci ha ispirato sin dalla prima volta che abbiamo messo piede su quest’isola.
 
-**L’idea di SEA N’ CLIFFS** è di creare percorsi naturalistici unici e divertenti, per tutte le persone che hanno voglia di avventure autentiche in connessione con la natura. 
+**L’IDEA DI SEA N’ CLIFFS** è di creare percorsi naturalistici unici e divertenti, per tutte le persone che hanno voglia di avventure autentiche in connessione con la natura. 
 Insieme a noi, oltre all’esperienza e alla semplice visione di posti bellissimi, rimarrà in te un bagaglio di conoscenza dell’ambiente naturale fatto di piante endemiche uniche di questi territori, fossili, impronte e tracce del passato che hanno plasmato quest’isola.
 La natura con i suoi colori e le sue forme è il nostro campo da gioco, vogliamo fartela sperimentare direttamente, esplorandola, alla ricerca di grotte nascoste, scorci panoramici, alberi millenari o più semplicemente posti bellissimi per rilassarsi e respirare. Attraverserai le terre selvagge di quest’isola e speriamo di farvi innamorare della natura, per ritrovare quel senso di appartenenza ad essa che nell’ultimo secolo più che mai, l’uomo sembra aver perduto.
 \
