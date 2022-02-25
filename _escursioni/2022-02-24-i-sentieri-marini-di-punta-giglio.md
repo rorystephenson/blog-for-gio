@@ -16,4 +16,4 @@ INFO TECNICHE PERCORSO
 VARIANTI E OPZIONI\
 Possibilità di fermarsi in foresteria per aperitivo e visione del tramonto, per poi rientrare di notte con le torce frontali.
 
-\*La quota di partecipazione individuale è variabile in base al numero dei partecipanti, parte da 20 euro**.***
+*La quota di partecipazione individuale è variabile in base al numero dei partecipanti, parte da 20 euro**.***
