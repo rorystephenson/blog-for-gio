@@ -3,33 +3,21 @@ backend:
   repo: seancliffs/seancliffs
   branch: master
   site_domain: epic-goldberg-f806a5.netlify.app
-
 media_folder: 'img/uploads'
-
-i18n:
-  structure: single_file
-  locales: [it, en]
-  default_locale: it
-
 collections:
   - name: '_pages_'
     label: 'Pages'
-    i18n:
-      structure: single_file
-      locales: [it, en]
-      default_locale: it
     files:
       - label: 'Section names'
         name: 'section_names'
         file: '_data/sections.yaml'
-        i18n: true
         fields:
-          - { label: "Esplora", name: "esplora", widget: "string", i18n: true }
-          - { label: "Escursioni", name: "escursioni", widget: "string", i18n: true }
-          - { label: "Foto & Video", name: "foto_video", widget: "string", i18n: true }
-          - { label: "Contatti", name: "contatti", widget: "string", i18n: true }
-          - { label: "Mappa Escursioni", name: "mappa_escursioni", widget: "string", i18n: true }
-          - { label: "Chi Siamo", name: "chi_siamo", widget: "string", i18n: true }
+          - { label: "Esplora", name: "esplora", widget: "string" }
+          - { label: "Escursioni", name: "escursioni", widget: "string" }
+          - { label: "Foto & Video", name: "foto_video", widget: "string" }
+          - { label: "Contatti", name: "contatti", widget: "string" }
+          - { label: "Mappa Escursioni", name: "mappa_escursioni", widget: "string" }
+          - { label: "Chi Siamo", name: "chi_siamo", widget: "string" }
       - label: 'Home page'
         name: 'home'
         file: 'index.html'
