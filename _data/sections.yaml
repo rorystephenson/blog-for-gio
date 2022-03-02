@@ -1,14 +1,7 @@
-it:
-  esplora: esplora
-  escursioni: escursioni
-  foto_video: foto & video
-  contatti: contatti
-  mappa_escursioni: mappa escursioni
-  chi_siamo: chi siamo
-en:
-  esplora: explore
-  escursioni: excursions
-  foto_video: photos & videos
-  contatti: contact
-  mappa_escursioni: excursion map
-  chi_siamo: about us
+esplora: Avventure geologiche
+escursioni: Escursioni
+foto_video: Foto & Video
+blog: Blog
+contatti: Contatti
+mappa_escursioni: Mappa Escursioni
+chi_siamo: Chi Siamo
