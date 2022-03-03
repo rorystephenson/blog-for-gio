@@ -11,17 +11,17 @@ Andando verso Sud da Alghero, si attraversano i selvaggi versanti che guardano a
 
 INFO TECNICHE PERCORSO
 
-<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->12 Km
+<!--\\\\\[if !supportLists]-->·        <!--\\\\\[endif]-->10 Km
 
-<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->8 H
+<!--\\\\\[if !supportLists]-->·        <!--\\\\\[endif]-->7/8 H
 
-<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->650 m
+<!--\\\\\[if !supportLists]-->·        <!--\\\\\[endif]-->650 m
 
 VARIANTI E OPZIONI
 
 È possibile scegliere se salire passando per Sa rocca Pinta o dalla cascata Istrampu de su Segnore. C’è anche la possibilità di vistarle entrambe nella stessa giornata ma ovviamente il percorsa si allunga decisamente.
 
-<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->Visita al nuraghe Apiu
+<!--\\\\\[if !supportLists]-->·        <!--\\\\\[endif]-->Visita al nuraghe Apiu
 
 *La quota di partecipazione individuale è variabile in base al numero dei partecipanti, parte da 30 euro*
 
