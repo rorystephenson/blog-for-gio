@@ -1,8 +1,18 @@
+{% assign dir_locale = page.dir | split: "/" | shift | first %}
+{% assign page_locale = page.url | split: "." | reverse | shift | first %}
+{% if dir_locale == "en" or page_locale == "en" %}
+  {% assign locale = "en" %}
+  {% assign sections=site.data.sections.en %}
+{% else %}
+  {% assign locale = "it" %}
+  {% assign sections=site.data.sections.it %}
+{% endif %}
+
 <section id="escursioni">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">{{ site.data.sections.escursioni }}</h2>
+                <h2 class="section-heading">{{ sections.escursioni }}</h2>
                 <hr class="primary">
             </div>
         </div>
@@ -10,18 +20,22 @@
     <div class="container">
         <div class="row" style="display: flex; display: -webkit-flex; flex-wrap: wrap;">
             {% for escursione in site.escursioni %}
-            <div class="col-lg-4 col-sm-6" style="margin-bottom: 15px">
-                <div class="portfolio-box hike-box">
-                    <img src="{{ escursione.thumbnail | relative_url }}" class="img-responsive" alt="">
-                      <div class="padding-15">
-                          <h3 class="section-heading">{{ escursione.title }}</h3>
-                          <p>
-                          {{ escursione.content | strip_html | truncatewords: 30 }}
-                          </p>
-                          <a href="{{ escursione.url | relative_url }}" class="btn btn-primary">Scopri di piú</a>
-                    </div>
-                </div>
-            </div>
+              {% assign post_locale = escursione.url | split: "." | reverse | shift | first %}
+              {% if post_locale != locale %}
+                {% continue %}
+              {% endif %}
+              <div class="col-lg-4 col-sm-6" style="margin-bottom: 15px">
+                  <div class="portfolio-box hike-box">
+                      <img src="{{ escursione.thumbnail | relative_url }}" class="img-responsive" alt="">
+                        <div class="padding-15">
+                            <h3 class="section-heading">{{ escursione.title }}</h3>
+                            <p>
+                            {{ escursione.content | strip_html | truncatewords: 30 }}
+                            </p>
+                            <a href="{{ escursione.url | relative_url }}" class="btn btn-primary">Scopri di piú</a>
+                      </div>
+                  </div>
+              </div>
             {% endfor %}
         </div>
     </div>
