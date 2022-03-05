@@ -1,8 +1,18 @@
+{% assign dir_locale = page.dir | split: "/" | shift | first %}
+{% assign page_locale = page.url | split: "." | reverse | shift | first %}
+{% if dir_locale == "en" or page_locale == "en" %}
+  {% assign locale = "en" %}
+  {% assign sections=site.data.sections.en %}
+{% else %}
+  {% assign locale = "it" %}
+  {% assign sections=site.data.sections.it %}
+{% endif %}
+
 <section class="no-horizontal-padding" id="foto-video">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">{{ site.data.sections.foto_video }}</h2>
+                <h2 class="section-heading">{{ sections.foto_video }}</h2>
                 <hr class="primary">
             </div>
         </div>
@@ -10,6 +20,11 @@
     <div class="container-fluid">
         <div class="row no-gutter gallery" id="gallery">
             {% for gallery_entry in site.gallery %}
+                {% assign gallery_locale = gallery_entry.url | split: "." | reverse | shift | first %}
+                {% if gallery_locale != locale %}
+                  {% continue %}
+                {% endif %}
+
                 {% if gallery_entry.youtube_link and gallery_entry.youtube_link != "" %}
                     {% include youtube-gallery-entry.html entry=gallery_entry %}
                 {% else %}

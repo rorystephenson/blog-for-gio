@@ -1,7 +1,16 @@
-esplora: Avventure geologiche
-escursioni: Escursioni
-foto_video: Foto & Video
-blog: Blog
-contatti: Contatti
-mappa_escursioni: Mappa Escursioni
-chi_siamo: Chi Siamo
+it:
+  esplora: Esplora
+  escursioni: Escursioni
+  foto_video: Foto & Video
+  blog: Blog
+  contatti: Contatti
+  mappa_escursioni: Mappa Escursioni
+  chi_siamo: Chi Siamo
+en:
+  esplora: Explore
+  escursioni: Excursions
+  foto_video: Photos & Videos
+  blog: Blog
+  contatti: Contact
+  mappa_escursioni: Excursion Map
+  chi_siamo: About Us

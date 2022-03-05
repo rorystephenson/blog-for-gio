@@ -1,3 +1,13 @@
+{% assign dir_locale = page.dir | split: "/" | shift | first %}
+{% assign page_locale = page.url | split: "." | reverse | shift | first %}
+{% if dir_locale == "en" or page_locale == "en" %}
+  {% assign locale = "en" %}
+  {% assign sections = site.data.sections.en %}
+{% else %}
+  {% assign locale = "it" %}
+  {% assign sections = site.data.sections.it %}
+{% endif %}
+
 {% assign home_link = "#page-top" %}
 {% assign escursioni_link = "#escursioni" %}
 {% assign esplora_link = "#esplora" %}
@@ -5,12 +15,13 @@
 {% assign blog_link = "#blog" %}
 {% assign contatti_link = "#contatti" %}
 {% if page.name != "index.html" %}
-    {% assign home_link = "/" | relative_url %}
-    {% assign escursioni_link = escursioni_link | relative_url %}
-    {% assign esplora_link = esplora_link | relative_url %}
-    {% assign foto_video_link = foto_video_link | relative_url %}
-    {% assign blog_link = blog_link | relative_url %}
-    {% assign contatti_link = contatti_link | relative_url %}
+  {% assign locale_prefix = locale | append: "/" %}
+  {% assign home_link = "/" | append: locale_prefix | relative_url %}
+  {% assign escursioni_link = locale_prefix | append: escursioni_link | relative_url %}
+  {% assign esplora_link = locale_prefix | append: esplora_link | relative_url %}
+  {% assign foto_video_link = locale_prefix | append: foto_video_link | relative_url %}
+  {% assign blog_link = locale_prefix | append: blog_link | relative_url %}
+  {% assign contatti_link = locale_prefix | append: contatti_link | relative_url %}
 {% endif %}
 <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
     <div class="container-fluid">
@@ -29,25 +40,49 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a class="page-scroll" href="{{ escursioni_link }}">{{ site.data.sections.escursioni }}</a>
+                    <a class="page-scroll" href="{{ escursioni_link }}">{{ sections.escursioni }}</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{{ esplora_link }}">{{ site.data.sections.esplora }}</a>
+                    <a class="page-scroll" href="{{ esplora_link }}">{{ sections.esplora }}</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{{ foto_video_link }}">{{ site.data.sections.foto_video }}</a>
+                    <a class="page-scroll" href="{{ foto_video_link }}">{{ sections.foto_video }}</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{{ blog_link }}">{{ site.data.sections.blog }}</a>
+                    <a class="page-scroll" href="{{ blog_link }}">{{ sections.blog }}</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{{ contatti_link }}">{{ site.data.sections.contatti }}</a>
+                    <a class="page-scroll" href="{{ contatti_link }}">{{ sections.contatti }}</a>
                 </li>
                 <li>
-                    <a class="separate-page-link" href="{{site.baseurl}}{% link pages/mappa-escursioni.md %}">{{ site.data.sections.mappa_escursioni }}</a>
+                  <a class="separate-page-link" href="{{site.baseurl}}/{{locale}}/mappa-escursioni">{{ sections.mappa_escursioni }}</a>
                 </li>
                 <li>
-                    <a href="{{site.baseurl}}{% link pages/chi-siamo.md %}">{{ site.data.sections.chi_siamo }}</a>
+                  <a href="{{site.baseurl}}/{{locale}}/chi-siamo">{{ sections.chi_siamo }}</a>
+                </li>
+                <li>
+                  {% if locale == "en" %}
+                    {% assign link_text = "🇮🇹 Italiano" %}
+                    {% assign chosen_locale = "it" %}
+
+                    <!-- This condition checks if we're on a page -->
+                    {% if page_locale == locale %}
+                      {% assign link_href = page.url | split: "." | reverse | shift | shift | reverse | join: "." | append: ".it.html" | prepend: site.baseurl %}
+                    {% else %}
+                      {% assign link_href = page.url | split: "/" | shift | shift | unshift: "it" | join: "/" | relative_url %}
+                    {% endif %}
+                  {% else %}
+                    {% assign link_text = "🇬🇧 English" %}
+                    {% assign chosen_locale = "en" %}
+
+                    <!-- This condition checks if we're on a page -->
+                    {% if page_locale == locale %}
+                      {% assign link_href = page.url | split: "." | reverse | shift | shift | reverse | join: "." | append: ".en.html" | prepend: site.baseurl %}
+                    {% else %}
+                      {% assign link_href = page.url | split: "/" | shift | shift | unshift: "en" | join: "/" | relative_url %}
+                    {% endif %}
+                  {% endif %}
+                  <a href="{{ link_href }}" onclick="localStorage.setItem('language', '{{ chosen_locale}}'); window.location = '{{ link_href }}'">{{ link_text }}</a>
                 </li>
             </ul>
         </div>

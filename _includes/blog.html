@@ -1,8 +1,18 @@
+{% assign dir_locale = page.dir | split: "/" | shift | first %}
+{% assign page_locale = page.url | split: "." | reverse | shift | first %}
+{% if dir_locale == "en" or page_locale == "en" %}
+  {% assign locale = "en" %}
+  {% assign sections=site.data.sections.en %}
+{% else %}
+  {% assign locale = "it" %}
+  {% assign sections=site.data.sections.it %}
+{% endif %}
+
 <section id="blog" class="bg-primary-light">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">{{ site.data.sections.blog }}</h2>
+                <h2 class="section-heading">{{ sections.blog }}</h2>
                 <hr class="primary">
             </div>
         </div>
@@ -10,18 +20,22 @@
     <div class="container">
         <div class="row" style="display: flex; display: -webkit-flex; flex-wrap: wrap;">
             {% for blog_post in site.blog %}
-            <div class="col-lg-4 col-sm-6" style="margin-bottom: 15px">
-                <div class="portfolio-box hike-box">
-                    <img src="{{ blog_post.thumbnail | relative_url }}" class="img-responsive" alt="">
-                      <div class="padding-15">
-                          <h3 class="section-heading">{{ blog_post.title }}</h3>
-                          <p>
-                          {{ blog_post.content | strip_html | truncatewords: 30 }}
-                          </p>
-                          <a href="{{ blog_post.url | relative_url }}" class="btn btn-primary">Scopri di piú</a>
-                    </div>
-                </div>
-            </div>
+              {% assign post_locale = blog_post.url | split: "." | reverse | shift | first %}
+              {% if post_locale != locale %}
+                {% continue %}
+              {% endif %}
+              <div class="col-lg-4 col-sm-6" style="margin-bottom: 15px">
+                  <div class="portfolio-box hike-box">
+                      <img src="{{ blog_post.thumbnail | relative_url }}" class="img-responsive" alt="">
+                        <div class="padding-15">
+                            <h3 class="section-heading">{{ blog_post.title }}</h3>
+                            <p>
+                            {{ blog_post.content | strip_html | truncatewords: 30 }}
+                            </p>
+                            <a href="{{ blog_post.url | relative_url }}" class="btn btn-primary">Scopri di piú</a>
+                      </div>
+                  </div>
+              </div>
             {% endfor %}
         </div>
     </div>
