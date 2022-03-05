@@ -3,9 +3,11 @@
 {% if dir_locale == "en" or page_locale == "en" %}
   {% assign locale = "en" %}
   {% assign sections=site.data.sections.en %}
+  {% assign home=site.data.home.en %}
 {% else %}
   {% assign locale = "it" %}
   {% assign sections=site.data.sections.it %}
+  {% assign home=site.data.home.it %}
 {% endif %}
 
 <section id="blog" class="bg-primary-light">
@@ -32,7 +34,7 @@
                             <p>
                             {{ blog_post.content | strip_html | truncatewords: 30 }}
                             </p>
-                            <a href="{{ blog_post.url | relative_url }}" class="btn btn-primary">Scopri di piú</a>
+                            <a href="{{ blog_post.url | relative_url }}" class="btn btn-primary">{{ home.scopri_di_piu }}</a>
                       </div>
                   </div>
               </div>
