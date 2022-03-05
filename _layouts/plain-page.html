@@ -38,36 +38,6 @@
               {{ data.content | markdownify }}
           </div>
       </div>
-      {% if data.middle_row_1_image %}
-      <div class="row justify-content-center">
-          <div class="col-md-2"></div>
-          <div class="col-md-2">
-            <img src="{{ data.middle_row_1_image | relative_url }}" class="img-responsive" />
-          </div>
-          <div class="col-md-7">
-              {{ data.middle_row_1_text | markdownify }}
-          </div>
-      </div>
-      {% endif %}
-      {% if data.middle_row_2_image %}
-      <div class="row justify-content-center">
-          <div class="col-md-2"></div>
-          <div class="col-md-2">
-            <img src="{{ data.middle_row_2_image | relative_url }}" class="img-responsive" />
-          </div>
-          <div class="col-md-7">
-              {{ data.middle_row_2_text | markdownify }}
-          </div>
-      </div>
-      {% endif %}
-      {% if data.second_content %}
-      <div class="row justify-content-center">
-          <div class="col-md-2"></div>
-          <div class="col-md-9">
-              {{ data.second_content | markdownify }}
-          </div>
-      </div>
-      {% endif %}
       {% if data.variant == "escursione" %}
       <div class="row">
           <div class="col-12">
@@ -78,6 +48,59 @@
       </div>
       {% endif %}
   </div>
+  {% if data.middle_row_1_image %}
+  <section class="bg-primary-light">
+    <div class="container-fluid">
+      <div class="row justify-content-center" style="margin-bottom: 30px;">
+          <div class="col-md-2"></div>
+          <div class="col-md-9">
+            <div class="row">
+              <div class="col-md-3">
+                <img src="{{ data.middle_row_1_image | relative_url }}" class="img-responsive img-cover-width" />
+              </div>
+              <div class="col-md-6">
+                  {{ data.middle_row_1_text | markdownify }}
+              </div>
+            </div>
+          </div>
+      </div>
+      <div class="row justify-content-center">
+          <div class="col-md-2"></div>
+          <div class="col-md-9">
+            <div class="row">
+              <div class="col-md-3">
+                <img src="{{ data.middle_row_2_image | relative_url }}" class="img-responsive img-cover-width" />
+              </div>
+              <div class="col-md-6">
+                  {{ data.middle_row_2_text | markdownify }}
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </section>
+  {% endif %}
+  {% if data.second_content %}
+  <div class="container">
+    <div class="row justify-content-center" style="padding-top: 30px;">
+        <div class="col-md-2"></div>
+        <div class="col-md-9">
+            {{ data.second_content | markdownify }}
+        </div>
+    </div>
+  </div>
+  {% endif %}
+  {% if data.choose_next_adventure %}
+  <div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="text-center">
+              <a href="{{ '/' | append: locale | append: '/#escursioni' | relative_url }}" class="btn btn-primary btn-xl page-scroll" style="margin-bottom: 30px">{{ data.choose_next_adventure }}</a>
+            </div>
+        </div>
+    </div>
+  </div>
+  {% endif %}
   {% include scripts.html %}
 </body>
 

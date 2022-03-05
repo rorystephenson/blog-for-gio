@@ -66,6 +66,7 @@ collections:
           - { label: "Person Image 2", name: "middle_row_2_image", widget: "image", i18n: duplicate }
           - { label: "Person Description 2", name: "middle_row_2_text", widget: "markdown", i18n: translate }
           - { label: "Second Content", name: "second_content", widget: "markdown", i18n: translate }
+          - { label: "Choose next adventure button", name: "choose_next_adventure", widget: "string", i18n: translate }
   - name: 'gallery'
     label: 'Gallery'
     folder: '_gallery/'
