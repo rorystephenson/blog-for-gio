@@ -33,7 +33,23 @@
         <div class="col-md-5 col-sm-6 col-xs-12">
           <div class="card-image">
             <div class="img-wrapper">
-                <img src="{{ home.esplora_image | relative_url }}" class="img-responsive img-cover img-rounded" />
+                <img src="{{ home.esplora_image_1 | relative_url }}" class="img-responsive img-cover img-rounded" />
+              <div class="img-overlay">
+                  <a href="#contatti" class="btn btn-default page-scroll">{{ home.esplora_book_now_text }}</a>
+              </div>
+            </div>
+          </div>
+          <div class="card-image hidden-xs" style="margin-top: 30px;">
+            <div class="img-wrapper">
+                <img src="{{ home.esplora_image_2 | relative_url }}" class="img-responsive img-cover img-rounded" />
+              <div class="img-overlay">
+                  <a href="#contatti" class="btn btn-default page-scroll">{{ home.esplora_book_now_text }}</a>
+              </div>
+            </div>
+          </div>
+          <div class="card-image hidden-xs" style="margin-top: 30px;">
+            <div class="img-wrapper">
+                <img src="{{ home.esplora_image_3 | relative_url }}" class="img-responsive img-cover img-rounded" />
               <div class="img-overlay">
                   <a href="#contatti" class="btn btn-default page-scroll">{{ home.esplora_book_now_text }}</a>
               </div>

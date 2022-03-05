@@ -11,7 +11,9 @@ it:
     antica terra al centro del Mar Mediterraneo  
   layout: front
   esplora_title: AVVENTURE GEOLOGICHE
-  esplora_image: img/uploads/img20210831121458img20210831121458.jpg
+  esplora_image_1: img/uploads/img20210831121458img20210831121458.jpg
+  esplora_image_2: img/uploads/img20210831121458img20210831121458.jpg
+  esplora_image_3: img/uploads/img20210831121458img20210831121458.jpg
   esplora_description: >-
     La Sardegna si può considerare un micro-continente per la grande variabilità
     di ambienti, rocce, vegetazione e popoli che presenta. Quest’isola si presta
@@ -57,7 +59,9 @@ en:
     antica terra al centro del Mar Mediterraneo  
   layout: front
   esplora_title: AVVENTURE GEOLOGICHE
-  esplora_image: img/uploads/img20210831121458img20210831121458.jpg
+  esplora_image_1: img/uploads/img20210831121458img20210831121458.jpg
+  esplora_image_2: img/uploads/img20210831121458img20210831121458.jpg
+  esplora_image_3: img/uploads/img20210831121458img20210831121458.jpg
   esplora_description: >-
     La Sardegna si può considerare un micro-continente per la grande variabilità
     di ambienti, rocce, vegetazione e popoli che presenta. Quest’isola si presta
