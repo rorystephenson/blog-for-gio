@@ -20,30 +20,30 @@ collections:
         file: '_data/sections.yaml'
         i18n: true
         fields:
-          - { label: "Esplora", name: "esplora", widget: "string", i18n: true }
-          - { label: "Escursioni", name: "escursioni", widget: "string", i18n: true }
-          - { label: "Foto & Video", name: "foto_video", widget: "string", i18n: true }
-          - { label: "Blog", name: "blog", widget: "string", i18n: true }
-          - { label: "Contatti", name: "contatti", widget: "string", i18n: true }
-          - { label: "Mappa Escursioni", name: "mappa_escursioni", widget: "string", i18n: true }
-          - { label: "Chi Siamo", name: "chi_siamo", widget: "string", i18n: true }
+          - { label: "Esplora", name: "esplora", widget: "string", i18n: translate }
+          - { label: "Escursioni", name: "escursioni", widget: "string", i18n: translate }
+          - { label: "Foto & Video", name: "foto_video", widget: "string", i18n: translate }
+          - { label: "Blog", name: "blog", widget: "string", i18n: translate }
+          - { label: "Contatti", name: "contatti", widget: "string", i18n: translate }
+          - { label: "Mappa Escursioni", name: "mappa_escursioni", widget: "string", i18n: translate }
+          - { label: "Chi Siamo", name: "chi_siamo", widget: "string", i18n: translate }
       - label: 'Home page'
         name: 'home'
         file: '_data/home.yaml'
         i18n: true
         fields:
-          - { label: "Layout", name: "layout", widget: "hidden", default: "front", i18n: true }
-          - { label: "Header image", name: "header_image", widget: "image", i18n: true }
-          - { label: "Header title", name: "header_title", widget: "string", i18n: true }
-          - { label: "Header subtitle", name: "header_subtitle", widget: "markdown", i18n: true }
-          - { label: "Scopri di piu button", name: "scopri_di_piu", widget: "string", i18n: true }
-          - { label: "Introduction", name: "introduction", widget: "markdown", i18n: true }
-          - { label: "Esplora book now text", name: "esplora_book_now_text", widget: "string", i18n: true }
-          - { label: "Esplora titolo", name: "esplora_title", widget: "string", i18n: true }
-          - { label: "Esplora descrizione", name: "esplora_description", widget: "markdown", i18n: true }
-          - { label: "Esplora image", name: "esplora_image", widget: "string", i18n: true }
-          - { label: "About content", name: "about_content", widget: "markdown", i18n: true }
-          - { label: "Contatti content", name: "contatti_content", widget: "markdown", i18n: true }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "front", i18n: duplicate }
+          - { label: "Header image", name: "header_image", widget: "image", i18n: duplicate }
+          - { label: "Header title", name: "header_title", widget: "string", i18n: translate }
+          - { label: "Header subtitle", name: "header_subtitle", widget: "markdown", i18n: translate }
+          - { label: "Scopri di piu button", name: "scopri_di_piu", widget: "string", i18n: translate }
+          - { label: "Introduction", name: "introduction", widget: "markdown", i18n: translate }
+          - { label: "Esplora book now text", name: "esplora_book_now_text", widget: "string", i18n: translate }
+          - { label: "Esplora titolo", name: "esplora_title", widget: "string", i18n: translate }
+          - { label: "Esplora descrizione", name: "esplora_description", widget: "markdown", i18n: translate }
+          - { label: "Esplora image", name: "esplora_image", widget: "string", i18n: duplicate }
+          - { label: "About content", name: "about_content", widget: "markdown", i18n: translate }
+          - { label: "Contatti content", name: "contatti_content", widget: "markdown", i18n: translate }
 
       - label: 'Mappa Escursioni'
         name: 'mappa_escursioni'
@@ -56,12 +56,12 @@ collections:
           - { label: "Content", name: "content", widget: "markdown", i18n: translate }
       - label: 'Chi Siamo'
         name: 'chi_siamo'
-        file: '_data/chi-siamo.yaml'
+        file: '_data/chi_siamo.yaml'
         i18n: true
         fields:
           - { label: "Header image", name: "image", widget: "image", i18n: duplicate }
-          - { label: "Header title", name: "title", widget: "string", i18n: true }
-          - { label: "Content", name: "content", widget: "markdown", i18n: true }
+          - { label: "Header title", name: "title", widget: "string", i18n: translate }
+          - { label: "Content", name: "content", widget: "markdown", i18n: translate }
   - name: 'gallery'
     label: 'Gallery'
     folder: '_gallery/'
@@ -75,8 +75,8 @@ collections:
       - { label: "Thumbnail", name: "thumbnail", widget: "image", required: false, i18n: duplicate }
       - { label: "Image link", name: "image", widget: "image", required: false, i18n: duplicate }
       - { label: "Youtube link", name: "youtube_link", widget: "string", required: false, i18n: duplicate }
-      - { label: "Title", name: "title", widget: "string", i18n: true }
-      - { label: "Caption", name: "caption", widget: "string", i18n: true }
+      - { label: "Title", name: "title", widget: "string", i18n: translate }
+      - { label: "Caption", name: "caption", widget: "string", i18n: translate }
   - name: 'escursioni'
     label: 'Escursioni'
     folder: '_escursioni/'
@@ -90,8 +90,8 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "plain-page", i18n: duplicate }
       - { label: "Image", name: "image", widget: "image", i18n: duplicate }
       - { label: "Thumbnail", name: "thumbnail", widget: "image", i18n: duplicate }
-      - { label: "Title", name: "title", widget: "string", i18n: true }
-      - { label: "Body", name: "body", widget: "markdown", i18n: true }
+      - { label: "Title", name: "title", widget: "string", i18n: translate }
+      - { label: "Body", name: "body", widget: "markdown", i18n: translate }
   - name: 'blog'
     label: 'Blog'
     folder: '_blog/'
@@ -105,5 +105,5 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "plain-page", i18n: duplicate }
       - { label: "Image", name: "image", widget: "image", i18n: duplicate }
       - { label: "Thumbnail", name: "thumbnail", widget: "image", i18n: duplicate }
-      - { label: "Title", name: "title", widget: "string", i18n: true }
-      - { label: "Body", name: "body", widget: "markdown", i18n: true }
+      - { label: "Title", name: "title", widget: "string", i18n: translate }
+      - { label: "Body", name: "body", widget: "markdown", i18n: translate }
