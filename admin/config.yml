@@ -39,12 +39,10 @@ collections:
           - { label: "Scopri di piu button", name: "scopri_di_piu", widget: "string", i18n: translate }
           - { label: "Introduction", name: "introduction", widget: "markdown", i18n: translate }
           - { label: "Esplora book now text", name: "esplora_book_now_text", widget: "string", i18n: translate }
-          - { label: "Esplora titolo", name: "esplora_title", widget: "string", i18n: translate }
           - { label: "Esplora descrizione", name: "esplora_description", widget: "markdown", i18n: translate }
           - { label: "Esplora image 1", name: "esplora_image_1", widget: "string", i18n: duplicate }
           - { label: "Esplora image 2", name: "esplora_image_2", widget: "string", i18n: duplicate }
           - { label: "Esplora image 3", name: "esplora_image_3", widget: "string", i18n: duplicate }
-          - { label: "About content", name: "about_content", widget: "markdown", i18n: translate }
           - { label: "Contatti content", name: "contatti_content", widget: "markdown", i18n: translate }
 
       - label: 'Mappa Escursioni'

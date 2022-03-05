@@ -1,16 +1,11 @@
 it:
   esplora_book_now_text: Prenota Ora
   header_title: Avventure in Sardegna
-  about_content: "**Obbiettivo:** studiare e analizzare, sia sul campo sia a
-    tavolino, la geologia dei siti visitati con il fine di correlare nello
-    spazio e nel tempo geologico e con la storia evolutiva del territorio, un
-    luogo con l’altro."
   header_image: /img/uploads/dsc_0210dsc_0210.jpg
   header_subtitle: Esci fuori all'aria aperta! Respira la natura selvaggia dell’
     isola. Percorri sentieri immersi tra le rocce, i profumi e i sapori di un
     antica terra al centro del Mar Mediterraneo  
   layout: front
-  esplora_title: AVVENTURE GEOLOGICHE
   esplora_image_1: img/uploads/img20210831121458img20210831121458.jpg
   esplora_image_2: img/uploads/img20210831121458img20210831121458.jpg
   esplora_image_3: img/uploads/img20210831121458img20210831121458.jpg
@@ -49,16 +44,11 @@ it:
 en:
   esplora_book_now_text: Book now
   header_title: Sardegna Adventures
-  about_content: "**Obbiettivo:** studiare e analizzare, sia sul campo sia a
-    tavolino, la geologia dei siti visitati con il fine di correlare nello
-    spazio e nel tempo geologico e con la storia evolutiva del territorio, un
-    luogo con l’altro."
   header_image: /img/uploads/dsc_0210dsc_0210.jpg
   header_subtitle: Esci fuori all'aria aperta! Respira la natura selvaggia dell’
     isola. Percorri sentieri immersi tra le rocce, i profumi e i sapori di un
     antica terra al centro del Mar Mediterraneo  
   layout: front
-  esplora_title: AVVENTURE GEOLOGICHE
   esplora_image_1: img/uploads/img20210831121458img20210831121458.jpg
   esplora_image_2: img/uploads/img20210831121458img20210831121458.jpg
   esplora_image_3: img/uploads/img20210831121458img20210831121458.jpg
