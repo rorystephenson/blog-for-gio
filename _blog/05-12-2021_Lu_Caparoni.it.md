@@ -1,11 +1,9 @@
 ---
 layout: plain-page
-title: Sa Rocca Pinta, lettere dalla natura
-thumbnail: /img/uploads/dsc_0224dsc_0224_01.jpg
 image: /img/uploads/dsc_0256dsc_0256.jpg
+thumbnail: /img/uploads/dsc_0224dsc_0224_01.jpg
+title: Sa Rocca Pinta, lettere dalla natura
 ---
-<!--StartFragment-->
-
 **Sa Rocca Pinta** è uno spettacolare affioramento roccioso di [ignimbriti](https://it.wikipedia.org/wiki/Ignimbrite "Ignimbrite"), visibile lungo i versanti che si attraversano passando per la strada litoranea Alghero-Bosa. E' considerata monumento naturale della Sardegna ed è ubicata nel comune di Villanova Monteleone, in provincia di Sassari. Questo tratto di costa ovest della Sardegna (patrimonio UNESCO) è costituito da rocce vulcaniche esplosive a chimismo rio-dacitico (ovvero con un'alta componente silicatica), di età Oligo-Miocenica.
 
 Sa Rocca Pinta (la roccia dipinta) è cosi chiamata per le particolari forme incise naturalmente sulla parete verticale dell'affioramento. Queste forme, costituite da creste e cuspidi arcuate in rilievo, ricordano un qualche tipo di scrittura antica; per questo motivo questa roccia sembra dipinta dall'uomo.
@@ -17,5 +15,3 @@ Le [ignimbriti](https://it.wikipedia.org/wiki/Ignimbrite "Ignimbrite") che cos
 **Interpretazione delle incisioni naturali, lettere dalla natura**
 
 Le ceneri che costituiscono Sa Rocca Pinta sono scarsamente saldate anche rispetto alle bancate ignimbritiche che poggiano sopra di essa. La natura tenera, friabile e poco permeabile di questa roccia, permette allo scorrimento gravitativo dell'acqua piovana di incidere profondamente la parete verticale. Inoltre, la presenza di inclusi vetrosi (lapilli in mezzo alle ceneri) scherma dall'erosione alcune parti della parete e quindi per erosione differenziale alcune parti di roccia restano in rilievo. L'esposizione ai venti provenienti dai quadranti occidentali accentua l'incisione e a tutto ciò si somma l'erosione chimica, che avviene nelle parti dove l'umidità marina, carica di CO2 e sali, ristagna (ovvero nelle concavità rivolte verso il basso), disgregando ulteriormente la roccia e formando questa bellissima forma d'arte naturale.
-
-<!--EndFragment-->
