@@ -10,7 +10,6 @@ title: I sentieri marini di Punta Giglio
 In aggiunta, questo luogo è carico di storia, in particolare è caratterizzato da strutture della seconda guerra mondiale, fortini, bunker e una vecchia caserma che ora è la sede della nuova foresteria rifugio di mare che offre piatti squisiti e un servizio di guide archeologiche.
 
 INFO TECNICHE PERCORSO
-
 * 8 Km
 * 4/5 H
 * 150 m
