@@ -50,7 +50,6 @@ collections:
         file: '_data/mappa_escursioni.yaml'
         i18n: true
         fields:
-          - { label: "Variant", name: "variant", widget: "hidden", default: "escursione", i18n: duplicate }
           - { label: "Header image", name: "image", widget: "image", i18n: duplicate }
           - { label: "Header title", name: "title", widget: "string", i18n: translate }
           - { label: "Content", name: "content", widget: "markdown", i18n: translate }
