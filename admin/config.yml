@@ -61,6 +61,11 @@ collections:
           - { label: "Header image", name: "image", widget: "image", i18n: duplicate }
           - { label: "Header title", name: "title", widget: "string", i18n: translate }
           - { label: "Content", name: "content", widget: "markdown", i18n: translate }
+          - { label: "Person Image 1", name: "middle_row_1_image", widget: "image", i18n: duplicate }
+          - { label: "Person Description 1", name: "middle_row_1_text", widget: "markdown", i18n: translate }
+          - { label: "Person Image 2", name: "middle_row_2_image", widget: "image", i18n: duplicate }
+          - { label: "Person Description 2", name: "middle_row_2_text", widget: "markdown", i18n: translate }
+          - { label: "Second Content", name: "second_content", widget: "markdown", i18n: translate }
   - name: 'gallery'
     label: 'Gallery'
     folder: '_gallery/'

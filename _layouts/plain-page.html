@@ -38,6 +38,36 @@
               {{ data.content | markdownify }}
           </div>
       </div>
+      {% if data.middle_row_1_image %}
+      <div class="row justify-content-center">
+          <div class="col-md-2"></div>
+          <div class="col-md-2">
+            <img src="{{ data.middle_row_1_image | relative_url }}" class="img-responsive" />
+          </div>
+          <div class="col-md-7">
+              {{ data.middle_row_1_text | markdownify }}
+          </div>
+      </div>
+      {% endif %}
+      {% if data.middle_row_2_image %}
+      <div class="row justify-content-center">
+          <div class="col-md-2"></div>
+          <div class="col-md-2">
+            <img src="{{ data.middle_row_2_image | relative_url }}" class="img-responsive" />
+          </div>
+          <div class="col-md-7">
+              {{ data.middle_row_2_text | markdownify }}
+          </div>
+      </div>
+      {% endif %}
+      {% if data.second_content %}
+      <div class="row justify-content-center">
+          <div class="col-md-2"></div>
+          <div class="col-md-9">
+              {{ data.second_content | markdownify }}
+          </div>
+      </div>
+      {% endif %}
       {% if data.variant == "escursione" %}
       <div class="row">
           <div class="col-12">
