@@ -1,5 +1,6 @@
 ---
 layout: plain-page
+variant: escursione
 image: /img/uploads/sun1.jpg
 thumbnail: /img/uploads/img20210905185441.jpg
 title: I sentieri marini di Punta Giglio

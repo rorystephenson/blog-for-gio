@@ -87,6 +87,7 @@ collections:
       default_locale: it
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "plain-page", i18n: duplicate }
+      - { label: "Variant", name: "variant", widget: "hidden", default: "escursione", i18n: duplicate }
       - { label: "Image", name: "image", widget: "image", i18n: duplicate }
       - { label: "Thumbnail", name: "thumbnail", widget: "image", i18n: duplicate }
       - { label: "Title", name: "title", widget: "string", i18n: translate }
