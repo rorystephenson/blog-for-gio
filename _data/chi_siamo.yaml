@@ -1,76 +1,79 @@
 it:
-  middle_row_2_text: |-
+  middle_row_2_text: >-
     ### Gio
 
-    Something about gio
+
+    Mi chiamo Giovanni fantini e dall’inizio del 2020 ad oggi ho lavorato per far diventare realtà questo progetto.\
+
+    Mi sono laureato in Geologia nel 2019 e nel 2021 ho conseguito il brevetto da guida ambientale escursionistica (AIGAE). Mi piace esplorare e studiare la geologia di un’area, semplicemente utilizzando bussola, martello e quaderno di campagna. Ricostruire la storia naturale di un territorio, osservando le forme del paesaggio, le rocce, la flora e la fauna che lo rendono unico, mi dà grande soddisfazione. Nel mio tempo libero amo fare surf da onda e arrampicare. Questi sport mi rendono molto felice e fortemente connesso con la natura e se passo molto tempo senza praticarli, divento matto.
   middle_row_1_text: |-
     ### Bea
 
     Something about bea
   choose_next_adventure: Scegli la tua prossima avventura
-  second_content: >-
-    **L’IDEA DI SEA N’ CLIFFS** è di creare percorsi naturalistici unici e
-    divertenti, per tutte le persone che hanno voglia di avventure autentiche in
-    connessione con la natura.  Insieme a noi, oltre all’esperienza e alla
-    semplice visione di posti bellissimi, rimarrà in te un bagaglio di
-    conoscenza dell’ambiente naturale fatto di piante endemiche uniche di questi
-    territori, fossili, impronte e tracce del passato che hanno plasmato
-    quest’isola. La natura con i suoi colori e le sue forme è il nostro campo da
-    gioco, vogliamo fartela sperimentare direttamente, esplorandola, alla
-    ricerca di grotte nascoste, scorci panoramici, alberi millenari o più
-    semplicemente posti bellissimi per rilassarsi e respirare. Attraverserai le
-    terre selvagge di quest’isola e speriamo di farvi innamorare della natura,
-    per ritrovare quel senso di appartenenza ad essa che nell’ultimo secolo più
-    che mai, l’uomo sembra aver perduto. in ogni luogo, saranno consigliate
-    strutture di accoglienza locali, per la notte ma soprattutto per mangiare
-    secondo la tradizione.
-
-
-    Con questo progetto puntiamo a un turismo diverso da quello esclusivamente balneare a cui è abituata la Sardegna.  Crediamo che il clima e la terra sarda vadano valorizzati al meglio, con sensibilità e quindi nel rispetto delle sue leggi naturali e vorremo farlo attraverso il nuovo tipo di **turismo dinamico e sostenibile** che proponiamo. Soprattutto in quei paesi dell’entroterra, che nonostante le grandi bellezze naturali e culturali, non hanno abbastanza afflusso di visitatori per rendere il turismo parte integrante della loro economia. Oltre ai classici mesi estivi, Le mezze stagioni (da aprile a giugno e da settembre a novembre) sono ideali per l’escursionismo, il cicloturismo, arrampicata, surf, parapendio, e le tante altre attività, anche ad alti livelli, che questa isola permette di fare.
+  second_content: Con questo progetto puntiamo a un turismo diverso da quello
+    esclusivamente balneare a cui è abituata la Sardegna.  Crediamo che il clima
+    e la terra sarda vadano valorizzati al meglio, con sensibilità e quindi nel
+    rispetto delle sue leggi naturali; Vorremo farlo attraverso il nuovo tipo di
+    **turismo dinamico e sostenibile** che proponiamo. Soprattutto in quei paesi
+    dell’entroterra, che nonostante le grandi bellezze naturali e culturali, non
+    hanno abbastanza afflusso di visitatori per rendere il turismo parte
+    integrante della loro economia. Oltre ai classici mesi estivi, Le mezze
+    stagioni (da aprile a giugno e da settembre a novembre) sono ideali per
+    l’escursionismo, il cicloturismo, arrampicata, surf, parapendio, e le tante
+    altre attività, anche ad alti livelli, che questa isola permette di fare.
   title: Chi siamo
-  content: "**Acqua azzurra sulla quale affiorano vertiginose scogliere rocciose,
+  content: >-
+    **Acqua azzurra sulla quale affiorano vertiginose scogliere rocciose,
     ricoperte dal verde rigoglioso della macchia Mediterranea;** un’immagine
     ricca dai forti contrasti di colori e forme, di emozionante bellezza. Questa
     è l’immagine che ci ha ispirato sin dalla prima volta che abbiamo messo
-    piede su quest’isola."
+    piede su quest’isola.
+
+
+    **L’IDEA DI SEA N’ CLIFFS** è di creare percorsi naturalistici unici e divertenti, per tutte le persone che hanno voglia di avventure autentiche in connessione con la natura.  Insieme a noi, oltre all’esperienza e alla semplice visione di posti bellissimi, rimarrà in te un bagaglio di conoscenza dell’ambiente naturale fatto di piante endemiche uniche di questi territori, fossili, impronte e tracce del passato che hanno plasmato quest’isola. La natura con i suoi colori e le sue forme è il nostro campo da gioco, vogliamo fartela sperimentare direttamente, esplorandola, alla ricerca di grotte nascoste, scorci panoramici, alberi millenari o più semplicemente posti bellissimi per rilassarsi e respirare. Attraverserai le terre selvagge di quest’isola e speriamo di farvi innamorare della natura, per ritrovare quel senso di appartenenza ad essa che nell’ultimo secolo più che mai, l’uomo sembra aver perduto. \
+
+    \
+
+    **In ogni luogo**, saranno consigliate strutture di accoglienza locali, per la notte ma soprattutto per mangiare secondo la tradizione locale.
   image: /img/uploads/dsc_0658_47.jpg
   middle_row_1_image: /img/uploads/avatar.png
   middle_row_2_image: /img/uploads/avatar.png
 en:
-  middle_row_2_text: |-
+  middle_row_2_text: >-
     ### Gio
 
-    Something about gio
+
+    My name is Giovanni Fantini and from the beginning of 2020 to today I have worked to make this project a reality. I graduated in Geology in 2019 and in 2021 I obtained the environmental hiking guide certificate (AIGAE). I like to explore and study the geology of an area, simply by using a compass, hammer and country notebook. Reconstructing the natural history of a territory, observing the shapes of the landscape, the rocks, the flora and the fauna that make it unique, gives me great satisfaction. In my free time I love surfing and climbing. These sports make me very happy and strongly connected with nature and if I spend a lot of time without practicing them, .
   middle_row_1_text: |-
     ### Bea
 
     Something about bea
   choose_next_adventure: Choose your next adventure
-  second_content: >-
-    **L’IDEA DI SEA N’ CLIFFS** è di creare percorsi naturalistici unici e
-    divertenti, per tutte le persone che hanno voglia di avventure autentiche in
-    connessione con la natura.  Insieme a noi, oltre all’esperienza e alla
-    semplice visione di posti bellissimi, rimarrà in te un bagaglio di
-    conoscenza dell’ambiente naturale fatto di piante endemiche uniche di questi
-    territori, fossili, impronte e tracce del passato che hanno plasmato
-    quest’isola. La natura con i suoi colori e le sue forme è il nostro campo da
-    gioco, vogliamo fartela sperimentare direttamente, esplorandola, alla
-    ricerca di grotte nascoste, scorci panoramici, alberi millenari o più
-    semplicemente posti bellissimi per rilassarsi e respirare. Attraverserai le
-    terre selvagge di quest’isola e speriamo di farvi innamorare della natura,
-    per ritrovare quel senso di appartenenza ad essa che nell’ultimo secolo più
-    che mai, l’uomo sembra aver perduto. in ogni luogo, saranno consigliate
-    strutture di accoglienza locali, per la notte ma soprattutto per mangiare
-    secondo la tradizione.
-
-
-    Con questo progetto puntiamo a un turismo diverso da quello esclusivamente balneare a cui è abituata la Sardegna.  Crediamo che il clima e la terra sarda vadano valorizzati al meglio, con sensibilità e quindi nel rispetto delle sue leggi naturali e vorremo farlo attraverso il nuovo tipo di **turismo dinamico e sostenibile** che proponiamo. Soprattutto in quei paesi dell’entroterra, che nonostante le grandi bellezze naturali e culturali, non hanno abbastanza afflusso di visitatori per rendere il turismo parte integrante della loro economia. Oltre ai classici mesi estivi, Le mezze stagioni (da aprile a giugno e da settembre a novembre) sono ideali per l’escursionismo, il cicloturismo, arrampicata, surf, parapendio, e le tante altre attività, anche ad alti livelli, che questa isola permette di fare.
+  second_content: With this project we aim at a tourism different from the
+    exclusively seaside one which Sardinia is used. We believe that the
+    Sardinian climate and land should be exploited to the best, with sensitivity
+    and therefore in compliance with its natural laws; we would like to do it
+    through the new type of  **dynamic and sustainable tourism**  that we offer.
+    Especially in those inland towns, which, despite their great natural and
+    cultural beauties, do not have enough influx of visitors to make tourism an
+    integral part of their economy. In addition to the classic summer months,
+    the mid-seasons (from April to June and from September to November) are
+    ideal for hiking, cycling, climbing, surfing, paragliding, and the many
+    other activities, even at high levels, that this island lets do.
   title: About us
-  content: "**Acqua azzurra sulla quale affiorano vertiginose scogliere rocciose,
-    ricoperte dal verde rigoglioso della macchia Mediterranea;** un’immagine
-    ricca dai forti contrasti di colori e forme, di emozionante bellezza. Questa
-    è l’immagine che ci ha ispirato sin dalla prima volta che abbiamo messo
-    piede su quest’isola."
+  content: >-
+    **Blue water on which dizzying rocky cliffs emerge, covered by the lush
+    green of the Mediterranean scrub;** a rich image with strong contrasts of
+    colors and shapes, of exciting beauty. This is the image that inspired us
+    from the first time we set foot on this island.
+
+
+    **THE IDEA OF SEA N 'CLIFFS**  is to create unique and fun nature trails, for all people who want authentic adventures in connection with nature. Together with us, in addition to the experience and the simple vision of beautiful places, you will have a wealth of knowledge of the natural environment made up of unique endemic plants of these territories, fossils, footprints and traces of the past that have shaped this island. Nature with its colors and shapes is our playground, we want you to experience it directly, exploring it, in search of hidden caves, panoramic views, millenary trees or simply beautiful places to relax and breathe. You will cross the wild lands of this island and we hope to make you fall in love with nature, to rediscover that sense of belonging to it that in the last century more than ever, man seems to have lost. \
+
+    \
+
+    **In each place**, local reception facilities will be recommended, for the night but above all to eat according to local tradition.
   image: /img/uploads/dsc_0658_47.jpg
   middle_row_1_image: /img/uploads/avatar.png
   middle_row_2_image: /img/uploads/avatar.png
