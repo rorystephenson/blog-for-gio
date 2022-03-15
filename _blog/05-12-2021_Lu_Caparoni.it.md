@@ -1,7 +1,7 @@
 ---
 layout: plain-page
-image: /img/uploads/dsc_0256dsc_0256.jpg
-thumbnail: /img/uploads/dsc_0224dsc_0224_01dsc_0224dsc_0224_01.jpg
+image: /img/uploads/dsc_0224dsc_0224_01.jpg
+thumbnail: /img/uploads/dsc_0256dsc_0256dsc_0256dsc_0256.jpg
 title: Sa Rocca Pinta, lettere dalla natura
 ---
 **Sa Rocca Pinta** è uno spettacolare affioramento roccioso di [ignimbriti](https://it.wikipedia.org/wiki/Ignimbrite "Ignimbrite"), visibile lungo i versanti che si attraversano passando per la strada litoranea Alghero-Bosa. E' considerata monumento naturale della Sardegna ed è ubicata nel comune di Villanova Monteleone, in provincia di Sassari. Questo tratto di costa ovest della Sardegna (patrimonio UNESCO) è costituito da rocce vulcaniche esplosive a chimismo rio-dacitico (ovvero con un'alta componente silicatica), di età Oligo-Miocenica.

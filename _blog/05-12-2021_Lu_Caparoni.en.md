@@ -1,7 +1,7 @@
 ---
 layout: plain-page
-image: /img/uploads/dsc_0256dsc_0256.jpg
-thumbnail: /img/uploads/dsc_0224dsc_0224_01dsc_0224dsc_0224_01.jpg
+image: /img/uploads/dsc_0224dsc_0224_01.jpg
+thumbnail: /img/uploads/dsc_0256dsc_0256dsc_0256dsc_0256.jpg
 title: Sa Rocca Pinta, Letters from nature
 ---
 **Sa Rocca Pinta**  is a spectacular rocky outcrop of [ignimbriti](https://it.wikipedia.org/wiki/Ignimbrite "Ignimbrite"), visible along the slopes that you cross through the Alghero-Bosa coastal road . It is considered a natural monument of Sardinia and is located in the municipality of Villanova Monteleone, in the province of Sassari. This stretch of the west coast of Sardinia (UNESCO heritage) is made up of explosive volcanic rocks with a rio-dacitic chemistry (i.e. with a high silicate component), dating back to the Oligo-Miocene age.
