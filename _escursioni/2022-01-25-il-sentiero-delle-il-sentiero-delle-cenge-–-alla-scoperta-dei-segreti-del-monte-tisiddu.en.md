@@ -1,8 +1,8 @@
 ---
 layout: plain-page
 variant: escursione
-image: /img/uploads/cima.jpg
-thumbnail: /img/uploads/pf1.jpg
+image: /img/uploads/dsc_0695dsc_0695.jpg
+thumbnail: /img/uploads/brc_3183brc_3183.jpg
 title: "Il paesaggio della Nurra, Escursione sul Mt. Forte "
 ---
 Se vuoi affacciarti su uno dei paesaggi più emozionanti della Sardegna, questa è l’avventura che fa per te.
