@@ -5,7 +5,6 @@ description: >
   This will be the description...
 domain: seancliffs.github.io
 url: https://seancliffs.github.io
-baseurl: /seancliffs
 
 # Build settings
 markdown: kramdown
