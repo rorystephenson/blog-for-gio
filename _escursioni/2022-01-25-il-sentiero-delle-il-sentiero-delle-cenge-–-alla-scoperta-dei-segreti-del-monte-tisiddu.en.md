@@ -5,9 +5,9 @@ image: /img/uploads/dsc_0695dsc_0695.jpg
 thumbnail: /img/uploads/brc_3183brc_3183.jpg
 title: "Il paesaggio della Nurra, Escursione sul Mt. Forte "
 ---
-Se vuoi affacciarti su uno dei paesaggi più emozionanti della Sardegna, questa è l’avventura che fa per te.
+If you want to look out over one of the most exciting landscapes in Sardinia, this is the adventure for you.
 
-La cima del *MONTE FORTE* è il punto panoramico per eccellenza della *Nurra*. Oltre ad essere il monte più alto di questa terra, si trova in una posizione strategica, che permette di vedere a 360° tutta la costa Nord-Ovest Sarda.  Dall’isola dell’*Asinara* a Nord, lo sguardo scende lungo costa passando per le montagne dell’*Argentiera*, si ipnotizza sulla penisola di *Capo Caccia*, per poi distogliersi catturato dai versanti vulcanici che dominano *Bosa* e che culminano verso Ovest con Capo *Marrargiu*.
+The top of  *MONTE FORTE*  is the panoramic point par excellence of the  *Nurra* . In addition to being the highest mountain in this land, it is located in a strategic position, which allows you to see the entire North-West Sardinian coast at 360 °. From the island of  *Asinara*  to the north, the gaze descends along the coast passing through the mountains of the  *Argentiera* , hypnotizes itself on the  *Capo Caccia*  peninsula, and then turns away captured by the volcanic slopes that dominate  *Bosa*  and which they culminate towards the west with Capo  *Marrargiu* .
 
 INFO TECNICHE PERCORSO
 
