@@ -5,18 +5,16 @@ image: /img/uploads/BRC_3230BRC_3230.jpg
 thumbnail: /img/uploads/dsc_0211dsc_0211.jpg
 title: I Versanti Vulcanici del West
 ---
-Andando verso Sud da Alghero, si attraversano i selvaggi versanti che guardano a ovest e che si stagliano sul mare erti e imponenti. Questa terra è fatta di rocce cineritiche, prodotto di antichi vulcani attivi da 32 a 15 Milioni di anni fa. Per questo motivo e per la sua esposizione ai venti di maestrale è un luogo ostile, aspro ma nasconde stupefacenti tesori naturali: splendide cascate, particolari formazioni rocciosi e diversi animali selvaggi.
+Going south from Alghero, you cross the wild slopes that look to the west and that stand out against the steep and imposing sea. This land is made of cinerite rocks, the product of ancient volcanoes that were active 32 to 15 million years ago. For this reason and for its exposure to the mistral winds it is a hostile, harsh place but hides amazing natural treasures: splendid waterfalls, particular rock formations and various wild animals.
 
-INFO TECNICHE PERCORSO
+TRAIL TECHNICAL INFO
 
 * 12 Km
 * 8 H
 * 650 m
 
-VARIANTI E OPZIONI
+VARIANTS AND OPTIONS
 
-È possibile scegliere se salire passando per Sa rocca Pinta o dalla cascata Istrampu de su Segnore. C’è anche la possibilità di vistarle entrambe nella stessa giornata ma ovviamente il percorsa si allunga decisamente.
+You can choose whether to go up via Sa rocca Pinta or from the Istrampu de su Segnore waterfall. There is also the possibility of seeing them both on the same day but obviously the journey is significantly longer.Visita al nuraghe Apiu
 
-* Visita al nuraghe Apiu
-
-*La quota di partecipazione individuale è variabile in base al numero dei partecipanti, parte da 30 euro*
+The individual participation fee is variable based on the number of participants, starting from 30 euros
