@@ -2,7 +2,7 @@
 layout: plain-page
 variant: escursione
 image: /img/uploads/BRC_3230BRC_3230.jpg
-thumbnail: /img/uploads/dsc_0211dsc_0211.jpg
+thumbnail: /img/uploads/dsc_0224dsc_0224_01dsc_0224dsc_0224_01.jpg
 title: The volcanic slopes of the West
 ---
 Going south from Alghero, you cross the wild slopes that look to the west and that stand out against the steep and imposing sea. This land is made of cinerite rocks, the product of ancient volcanoes that were active 32 to 15 million years ago. For this reason and for its exposure to the mistral winds it is a hostile, harsh place but hides amazing natural treasures: splendid waterfalls, particular rock formations and various wild animals.
