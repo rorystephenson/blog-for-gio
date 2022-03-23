@@ -15,6 +15,8 @@ TRAIL TECHNICAL INFO
 
 VARIANTS AND OPTIONS
 
-You can choose whether to go up via Sa rocca Pinta or from the Istrampu de su Segnore waterfall. There is also the possibility of seeing them both on the same day but obviously the journey is significantly longer.Visita al nuraghe Apiu
+You can choose whether to go up via Sa rocca Pinta or from the Istrampu de su Segnore waterfall.
+
+Visita al nuraghe Apiu
 
 The individual participation fee is variable based on the number of participants, starting from 30 euros

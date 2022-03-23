@@ -15,8 +15,8 @@ INFO TECNICHE PERCORSO
 
 VARIANTI E OPZIONI
 
-È possibile scegliere se salire passando per Sa rocca Pinta o dalla cascata Istrampu de su Segnore. C’è anche la possibilità di vistarle entrambe nella stessa giornata ma ovviamente il percorsa si allunga decisamente.
+È possibile scegliere se salire passando per Sa rocca Pinta o dalla cascata Istrampu de su Segnore.
 
-* Visita al nuraghe Apiu
+Visita al nuraghe Apiu
 
 *La quota di partecipazione individuale è variabile in base al numero dei partecipanti, parte da 30 euro*
