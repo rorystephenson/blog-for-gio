@@ -1,7 +1,7 @@
 ---
 layout: plain-page
-image: /img/uploads/mt.pulchiana.jpg
-thumbnail: /img/uploads/fractureorientations-square2.jpg
+image: /img/uploads/mt.pulchianamt.pulchiana.jpg
+thumbnail: /img/uploads/fractureorientations-square2fractureorientations-square2.jpg
 title: Mt. Pulchiana and the surrounding land
 ---
 Cracks lineaments are the result of the forces that have moved this Land across the time. While colors, express the rocks chemestry.
