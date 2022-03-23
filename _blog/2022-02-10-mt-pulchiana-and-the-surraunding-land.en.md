@@ -4,7 +4,7 @@ image: /img/uploads/mt.pulchianamt.pulchiana.jpg
 thumbnail: /img/uploads/fractureorientations-square2fractureorientations-square2.jpg
 title: Mt. Pulchiana and the surrounding land
 ---
-Cracks lineaments are the result of the forces that have moved this Land across the time. While colors, express the rocks chemestry.
+Cracks lineaments are the result of the forces that have moved this Land across the time. While colors, express the rock chemestry.
 
 This elements tell as a lot about the origins of the SARDINIAN GRANITE DOME.
 [@agriturismolacerra_sardinia](https://www.instagram.com/agriturismolacerra_sardinia/)
