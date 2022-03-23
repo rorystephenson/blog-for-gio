@@ -5,18 +5,21 @@ image: /img/uploads/dsc_1041dsc_1041_01.jpg
 thumbnail: /img/uploads/dsc_1007dsc_1007.jpg
 title: Torre della Peña, Capo Caccia
 ---
-La penisola di Capo Caccia, lo scudo di Alghero dalle forti tempeste di Maestrale, insieme a punta Giglio, delimita la grande baia di Porto Conte. Salendo fino a Torre della Peña, ci affacceremo sulle le sue scogliere mozza fiato e potremmo ammirare uno dei cliff più alti del mediterraneo, la parete di punta Cristallo, 326 m di puro calcare dolomitico a picco sul mare e riserva integrale del parco di Porto Conte. Qui, in nicchie e volte calcaree della falesia, nidifica il falco pellegrino, la berta minore e maggiore, il gabbiano reale, la rondine montana e il passero solitario, tutte specie di grande importanza faunistica e dal volo spettacolare.
+The Capo Caccia peninsula , the Alghero's shield from the strong Mistral storms, together with Punta Giglio, delimits the large bay of Porto Conte. hike up to Torre della Peña, we will look out over its breathtaking cliffs and we could admire one of the highest cliffs in the Mediterranean, the Punta Cristallo wall, 326 m of pure dolomitic limestone overlooking the sea and integral reserve of the Porto Conte park . Here nests in niches and limestone vaults of the cliff, the peregrine falcon, the shearwater, the herring gull, the mountain swallow and the blue rock thrush. These are all species of great faunal importance and with spectacular flight, nests.
 
-Camminare sulle irregolari forme carsiche che caratterizzano questo territorio può essere difficoltoso, ma la vista degli uccelli marini al tramonto è qualcosa di veramente emozionante.
+Walking on the irregular karst shapes that characterize this area can be difficult, but the sight of seabirds at sunset is something truly exciting.
 
-INFO TECNICHE PERCORSO
+ROUTE TECHNICAL INFO
 
 * 6.4 Km
 * 4/5 H
 * 250 m
 
-VARIANTI E OPZIONI
+VARIANTS AND OPTIONS
 
-* Possibilità di fermarsi in cima per aperitivo e visione del tramonto, per poi rientrare di notte con le torce frontali.
+* Possibility of stopping at the top for an aperitif and watching the sunset, and then returning at night with the headlamps.
 
-***La quota di partecipazione individuale è variabile in base al numero dei partecipanti, parte da 20 euro.***
+ ***The individual participation fee is variable based on the number of participants, starting from 20 euros.***  
+Ulteriori informazioni su questo testo di originePer avere ulteriori informazioni sulla traduzione è necessario il testo di origine
+Invia commenti
+Riquadri laterali
