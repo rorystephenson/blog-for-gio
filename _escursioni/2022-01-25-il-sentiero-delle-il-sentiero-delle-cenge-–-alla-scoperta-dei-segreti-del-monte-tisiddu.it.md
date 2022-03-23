@@ -17,6 +17,6 @@ INFO TECNICHE PERCORSO
 
 VARIANTI E OPZIONI
 
-* possibiltà di avventurarsi oltre, **all’interno della natura del parco Lu Cantaru.**
+* possibiltà di avventurarsi oltre, all’interno della natura del parco Lu Cantaru.
 
  *La quota di partecipazione individuale è variabile in base al numero dei partecipanti, parte da 20 euro.*
