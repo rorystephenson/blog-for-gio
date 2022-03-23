@@ -1,7 +1,7 @@
 ---
 layout: plain-page
 variant: escursione
-image: /img/uploads/dsc_0695dsc_0695.jpg
+image: /img/uploads/pf1.jpg
 thumbnail: /img/uploads/brc_3183brc_3183.jpg
 title: The landscape of Nurra, Excursion to Mt. Forte
 ---
