@@ -5,7 +5,12 @@ it:
   esplora_image_3: img/uploads/dsc_1171dsc_1171.jpg
   header_title: Il LATO SELVAGGIO DELL'ISOLA
   header_image: /img/uploads/dsc_0210dsc_0210.jpg
-  header_subtitle: "**ESPLORAZIONE. AVVENTURA. SCOPERTA. ESCURSIONI NEL N/O DELLA SARDEGNA**"
+  header_subtitle: |-
+    **ESPLORAZIONE. AVVENTURA. SCOPERTA.** 
+
+
+
+    **ESCURSIONI NEL N/O DELLA SARDEGNA**
   layout: front
   esplora_description: >-
     La Sardegna si può considerare un micro-continente per la grande variabilità
