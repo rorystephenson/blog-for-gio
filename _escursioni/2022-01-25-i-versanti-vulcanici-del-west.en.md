@@ -1,8 +1,8 @@
 ---
 layout: plain-page
 variant: escursione
-image: /img/uploads/dsc_1528dsc_1528.jpg
-thumbnail: /img/uploads/photo_2022-08-04_21-09-32photo_2022-08-04_21-09-32.jpg
+image: /img/uploads/photo_2022-08-04_15-49-21.jpg
+thumbnail: /img/uploads/dsc_1528dsc_1528.jpg
 title: SUP Adventures, Capo Caccia
 ---
 the peninsula of Capo Caccia, Alghero's shield from the strong Mistral storms, together with Punta Giglio, delimits the great bay of Porto Conte. paddling around its breathtaking cliffs, we could admire one of the highest cliffs in the Mediterranean, 326 m of pure dolomitic limestone overlooking the sea and integral reserve of the Porto Conte park. Here, in niches and limestone vaults of the cliff, the peregrine falcon, the shearwater, the herring gull, the mountain swallow and the blue rock thrush nestle, all species of great faunal importance and spectacular flight.

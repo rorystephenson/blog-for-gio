@@ -1,8 +1,8 @@
 ---
 layout: plain-page
 variant: escursione
-image: /img/uploads/dsc_1528dsc_1528.jpg
-thumbnail: /img/uploads/photo_2022-08-04_21-09-32photo_2022-08-04_21-09-32.jpg
+image: /img/uploads/photo_2022-08-04_15-49-21.jpg
+thumbnail: /img/uploads/dsc_1528dsc_1528.jpg
 title: Avventura in SUP, Capo Caccia
 ---
 la penisola di Capo Caccia, lo scudo di Alghero dalle forti tempeste di Maestrale, insieme a punta Giglio, delimita la grande baia di Porto Conte. pagaiando attorno alle sue scogliere mozza fiato, potremmo ammirare uno dei cliff più alti del mediterraneo, 326 m di puro calcare dolomitico a picco sul mare e riserva integrale del parco di Porto Conte. Qui, in nicchie e volte calcaree della falesia, nidifica il falco pellegrino, la berta minore e maggiore, il gabbiano reale, la rondine montana e il passero solitario, tutte specie di grande importanza faunistica e dal volo spettacolare.
