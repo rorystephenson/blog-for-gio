@@ -3,7 +3,7 @@ layout: plain-page
 variant: escursione
 image: /img/uploads/pf1.jpg
 thumbnail: /img/uploads/brc_3183brc_3183.jpg
-title: The landscape of Nurra, Excursion to Mt. Forte
+title: The landscape of Nurra, hike to Mt. Forte
 ---
 If you want to look out over one of the most exciting landscapes in Sardinia, this is the adventure for you.
 
