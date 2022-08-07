@@ -1,22 +1,22 @@
 ---
 layout: plain-page
 variant: escursione
-image: /img/uploads/BRC_3230BRC_3230.jpg
-thumbnail: /img/uploads/dsc_0224dsc_0224_01dsc_0224dsc_0224_01.jpg
-title: The volcanic slopes of the West
+image: /img/uploads/dsc_1528dsc_1528.jpg
+thumbnail: /img/uploads/photo_2022-08-04_21-09-32photo_2022-08-04_21-09-32.jpg
+title: SUP Adventures, Capo Caccia
 ---
-Going south from Alghero, you cross the wild slopes that look to the west and that stand out against the steep and imposing sea. This land is made of cinerite rocks, the product of ancient volcanoes that were active 32 to 15 million years ago. For this reason and for its exposure to the mistral winds it is a hostile, harsh place but hides amazing natural treasures: splendid waterfalls, particular rock formations and various wild animals.
+the peninsula of Capo Caccia, Alghero's shield from the strong Mistral storms, together with Punta Giglio, delimits the great bay of Porto Conte. paddling around its breathtaking cliffs, we could admire one of the highest cliffs in the Mediterranean, 326 m of pure dolomitic limestone overlooking the sea and integral reserve of the Porto Conte park. Here, in niches and limestone vaults of the cliff, the peregrine falcon, the shearwater, the herring gull, the mountain swallow and the blue rock thrush nestle, all species of great faunal importance and spectacular flight.
 
-TRAIL TECHNICAL INFO
+With the SUP we could easily reach uncontaminated points of the protected marine area. \
+Crystal clear water and seabeds full of life where snorkeling are guaranteed and with a little effort we could reach safe points to dive and climb.
 
-* 12 Km
-* 8 H
-* 650 m
+Due to the strong thermal wind in the afternoon, this excursion will be possible: \
+in the  **morning from 9 am to 11/12**  or in the  **evening from 5:30 pm to sunset** .
 
-VARIANTS AND OPTIONS
+The cost is  **50 euros / pers**. and includes:
 
-You can choose whether to go up via Sa rocca Pinta or from the Istrampu de su Segnore waterfall.
-
-Visita al nuraghe Apiu
-
-The individual participation fee is variable based on the number of participants, starting from 30 euros
+sup rental (board, paddle, life jacket) \
+introductory lesson \
+expert sea guide \
+Snorkeling equipment \
+break with fresh fruit
