@@ -2,21 +2,14 @@
 layout: plain-page
 variant: escursione
 image: /img/uploads/dsc_1041dsc_1041_01.jpg
-thumbnail: /img/uploads/dsc_1007dsc_1007.jpg
-title: Torre della Peña, Capo Caccia
+thumbnail: /img/uploads/whatsapp-image-2022-07-28-at-17.21.42.jpeg
+title: Avventure con kayak da mare (offerto da Clark di seakayaksardinia.com)
 ---
-La penisola di Capo Caccia, lo scudo di Alghero dalle forti tempeste di Maestrale, insieme a punta Giglio, delimita la grande baia di Porto Conte. Salendo fino a Torre della Peña, ci affacceremo sulle le sue scogliere mozza fiato e potremmo ammirare uno dei cliff più alti del mediterraneo, la parete di punta Cristallo, 326 m di puro calcare dolomitico a picco sul mare e riserva integrale del parco di Porto Conte. Qui, in nicchie e volte calcaree della falesia, nidifica il falco pellegrino, la berta minore e maggiore, il gabbiano reale, la rondine montana e il passero solitario, tutte specie di grande importanza faunistica e dal volo spettacolare.
+Il kayak è particolarmente ideale per avventurarsi lungo la costa del Nord-Ovest sarda. Questo mezzo di trasporto ci da la possibilità di esplorare ogni più piccolo e stretto angolo della scogliera, cosa impossibile in barca. Inoltre, I kayak che offre *seakayaksardinia* sono ideali per percorrere lunghe distanze in mare e quindi sono ideali per l'esplorazione costiera. 
 
-Camminare sulle irregolari forme carsiche che caratterizzano questo territorio può essere difficoltoso, ma la vista degli uccelli marini al tramonto è qualcosa di veramente emozionante.
+Lavoriamo da due spiagge della regione di Alghero, una è nella pittoresca **baia di Porto Conte**, con la sua costa selvaggiamente bella e brulicante di vita marina, e l'altra è la **spiaggia di Punta Negra**, che si trova all'interno di un'area protetta, ideale per quando il mare è mosso e con accesso all'estremità meridionale del parco marino.
 
-INFO TECNICHE PERCORSO
+Entrambe queste coste sono incredibili e visiteremo alcune spiagge davvero meravigliose lontane dalle zone turistiche.
 
-* 6.4 Km
-* 4/5 H
-* 250 m
-
-VARIANTI E OPZIONI
-
-* Possibilità di fermarsi in cima per aperitivo e visione del tramonto, per poi rientrare di notte con le torce frontali.
-
-***La quota di partecipazione individuale è variabile in base al numero dei partecipanti, parte da 20 euro.***
+**Mezza giornata (65 Euro/pers.)** ed include l'affiancamento ad una guida di mare esperta e l'affitto dei kayak e tutta l'attrezzatura necessaria.\
+**giornata intera (90 euro/pers.)**, oltra alla guida e il kayak, sarà offerto il pranzo al sacco con bibite fresche e frutta.

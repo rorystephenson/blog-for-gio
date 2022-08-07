@@ -2,21 +2,14 @@
 layout: plain-page
 variant: escursione
 image: /img/uploads/dsc_1041dsc_1041_01.jpg
-thumbnail: /img/uploads/dsc_1007dsc_1007.jpg
-title: Torre della Peña, Capo Caccia
+thumbnail: /img/uploads/whatsapp-image-2022-07-28-at-17.21.42.jpeg
+title: Sea kayak Adventures (powered by Clark from seakayaksardinia.com)
 ---
-The Capo Caccia peninsula, the Alghero's shield from the strong Mistral storms, together with Punta Giglio, delimits the large bay of Porto Conte. hike up to Torre della Peña, we will look out over its breathtaking cliffs and we could admire one of the highest cliffs in the Mediterranean, the Punta Cristallo wall, 326 m of pure dolomitic limestone overlooking the sea and integral reserve of the Porto Conte park. Here nests in niches and limestone vaults of the cliff, the peregrine falcon, the shearwater, the herring gull, the mountain swallow and the blue rock thrush. These are all species of great faunal importance and with spectacular flight.
+Kayaking is particularly ideal for venturing along the Sardinian North-West coast. This means of transport gives us the opportunity to explore every small and narrow corner of the cliff, which is impossible by boat. In addition, the kayaks that  *seakayaksardinia*  offers are ideal for traveling long distances at sea and therefore ideal for coastal exploration.
 
-Walking on the irregular karst shapes that characterize this area, can be difficult, but the sight of seabirds at sunset is something truly exciting.
+We work from two beaches in the Alghero region, one is in scenic Bay of Porto Conte, with it’s wildly beautiful coast teeming with marine life, and the other is Punta Negra Beach which is within a protected area ideal for when the sea gets choppy and with access to the southern end of the marine park.
 
-ROUTE TECHNICAL INFO
+Both of these coastlines are amazing, and we will visit some truly stunning beaches far from the touristic areas.
 
-* 6.4 Km
-* 4/5 H
-* 250 m
-
-VARIANTS AND OPTIONS
-
-* Possibility of stopping at the top for an aperitif and watching the sunset, and then returning at night with the headlamps.
-
-   ***The individual participation fee is variable based on the number of participants, starting from 20 euros.***
+ **Half day (65 Euro / pers.)** includes coaching with an expert sea guide and the rental of kayaks and all the necessary equipment. \
+ **Full day (90 euros / pers.)** in addition to the guide and the kayak, a packed lunch with fresh drinks and fruit will be offered.
